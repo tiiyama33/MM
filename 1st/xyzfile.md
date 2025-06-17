@@ -10,28 +10,30 @@ VESTA が表示する分子の構造(原子の位置)は、座標ファイルの
 > 起動時は[リッチテキスト]モードになっているので、[テキストエディット]-[環境設定...]-[フォーマット]で [標準テキスト]モードに切り替えてください。  
 > 拡張子(ファイル名の最後の部分)は強制的に .txt となってしまうので、ファイルをセーブした後、ファイル名末尾を .xyz に直してください。
 
-[メモ帳] は [スタートメニュー]-[Windowsアクセサリ]-[メモ帳] あたりにあると思います。(場所が違う可能性あり)  
+[メモ帳] は [スタートメニュー]-[すべて]-[メモ帳] あたりにあると思います。(場所が違う可能性あり)  
 
 - 画面左下の [スタートボタン] を押し、[Windows アクセサリ] の中の [メモ帳] をクリック
-<figure>  
- <img class="size-medium wp-image-195899" src="/img/memo-288x300.png" alt="" width="288" height="300" />
- <figcaption>メモ帳</figcaption>
-</figure>
-ダウンロードした ethanol.xyz を、起動した [メモ帳] に Drag &amp; Drop、または [ファイル]-[開く] で 開いてください。
+ <img class="size-medium wp-image-195899" src="/img/memo11.png" alt="" width="288" height="300" />
 
-[caption id="attachment_8165" align="alignnone" width="300"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/notepad1.png"><img class="wp-image-8165 size-medium" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/notepad1-300x281.png" alt="ＮotePadでethanol.xyzを開いたところ" width="300" height="281" /></a> [メモ帳] で ethanol.xyzを開いたところ[/caption]ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
+ダウンロードした ethanol.xyz を、起動した [メモ帳] に Drag & Drop、または [ファイル]-[開く] で 開いてください。  
+
+ <img class="wp-image-8165 size-medium" src="/img/notepad1.png" width="450" />
+
+ethanol.xyz は "XMol XYZ" 形式に従って書かれています。  
 (ファイルの拡張子は .xyz )
 
 "XMol XYZ" 形式は分子の情報を以下のように書くように定められています。
-<ul>
- 	<li>1 行目 原子の個数を書く</li>
- 	<li>2 行目 分子の名称を書く(日本語禁止)</li>
- 	<li>3 行目以降
-1 行が 1 つの原子の情報を表している。それぞれの行には各原子の
-元素記号 <em>x</em> 座標 <em>y</em> 座標 <em>z</em> 座標
-を書く。<strong>座標は Å (オングストローム) 単位 </strong> ((1 Å = 10<sup>-10</sup> m ))<strong>。 元素記号と各座標の間はスペースで区切る。</strong>
-(スペースの数は何個でも良い。ただし、全角スペースは使わないこと。タブ(Tab) も区切りに使えるが、タブの場合は 2 個以上連続して並べてはいけない。)</li>
-</ul>
+
+- 1 行目 原子の個数を書く
+- 2 行目 分子の名称を書く(日本語禁止)
+- 3 行目以降  
+  1 行が 1 つの原子の情報を表している。  
+  それぞれの行には各原子の元素記号 *x* 座標 *y* 座標 *z* 座標  
+を書く。
+**座標は Å (オングストローム) 単位** (1 Å = 10<sup>-10</sup> m )。  
+**元素記号と各座標の間はスペースで区切る。**  
+(スペースの数は何個でも良い。ただし、全角スペースは使わないこと。タブ(Tab) も区切りに使えるが、タブの場合は 2 個以上連続して並べてはいけない。)
+
 つまり、原子の座標を調べ、上のようなフォーマットで 拡張子を .xyz としたファイルを作れば、どのような分子でも図に描くことができます。
 
 [help]
