@@ -13,14 +13,12 @@
   <figcaption>VESTAの画面</figcaption>
 </figure>
 
-<hr />
-
 ## 分子データの読み込み
 さっそく分子を表示させてみることにしましょう。  
 
 下にエタノールの座標ファイルを置きました。ダウンロードしてください。
 
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ethanol.xyz">ethanol.xyz</a>
+[ethanol.xyz](/files/ethanol.xyz)
 
 クリックして「保存」の右側の▼を選び、適切なフォルダに保存するとよいでしょう。
 
