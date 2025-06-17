@@ -51,7 +51,7 @@ ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
   
 座標データが入力できたら、ファイルの種類を **[すべてのファイル]** に変更して、methane.xyz という名前でセーブしてください。
 
-<img class="alignnone size-medium wp-image-8166" src="/img/save1-300x200.png" alt="save1" width="300" height="200" /></a>
+<img class="alignnone size-medium wp-image-8166" src="/img/save1-300x200.png" alt="save1" width="450" /></a>
 
 > ファイルの種類を [テキストファイル] のままでセーブすると、ファイル名が methane.xyz.txt となってしまうようです。その場合、できたファイルの名前を変更して最後の .txt を消してください。
 
