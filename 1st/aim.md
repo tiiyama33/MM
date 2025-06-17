@@ -9,7 +9,7 @@
 # 3 次元グラフィックスについて
 これから 4 回の授業では、分子構造を 3 次元的に理解するために、また空間情報の取り扱いに慣れるために、コンピュータ・グラフィックスを用いた分子描画について学びます。
 
-<img class="alignright size-full wp-image-3190" title="3D3" src="img/3D3.jpg" alt="" width="359" height="242" />
+<img class="alignright size-full wp-image-3190" title="3D3" src="/img/3D3.jpg" alt="" width="359" height="242" />
 
 コンピュータの画面(ディスプレイ)は 2 次元ですが、次のようにして 3 次元の構造を取り扱うことができます。
 
