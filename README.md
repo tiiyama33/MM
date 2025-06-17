@@ -36,7 +36,5 @@ PC実習室のPCを使っている場合は <a href="http://science.shinshu-u.ac
 > VESTAは非商用の用途には無料で配布されています。
 > VESTAは論文等の図 として使用する場合は論文中にソフトウェア名を示す(文献を引用する)ことになっています。将来、研究で使用する場合には注意してください。
 >
-> - VENUSの開発者 泉 富士夫氏のページ
-> http://homepage.mac.com/fujioizumi/
 > - 門馬綱一氏のVESTAのページ
 > http://jp-minerals.org/jp/</li>
