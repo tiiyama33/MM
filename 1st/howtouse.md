@@ -44,44 +44,44 @@
 <table border="0">
 <tbody>
 <tr>
-<td><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/rotate1.png"><img class="alignnone size-full wp-image-6430" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/rotate1.png" alt="rotate" width="70" height="64" /></a></td>
+<td><img class="alignnone size-full wp-image-6430" src="/img/rotate1.png" alt="rotate" width="70" height="64" /></a></td>
 <td>[Rotate]
 (回転)</td>
 <td>分子をマウス操作で回転します。</td>
 </tr>
 <tr align="left" valign="middle">
-<td><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/select1.png"><img class="alignnone size-full wp-image-6432" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/select1.png" alt="select" width="70" height="64" /></a></td>
+<td><img class="alignnone size-full wp-image-6432" src="/img/select1.png" alt="select" width="70" height="64" /></a></td>
 <td>[Select]
 (選択)</td>
 <td>原子を選択します。
 原子の情報(元素名、座標など)が情報ウィンドウ(上図H)に表示されます。</td>
 </tr>
 <tr align="left" valign="middle">
-<td><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/translate1.png"><img class="alignnone size-full wp-image-6433" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/translate1.png" alt="translate" width="70" height="64" /></a></td>
+<td><img class="alignnone size-full wp-image-6433" src="/img/translate1.png" alt="translate" width="70" height="64" /></a></td>
 <td>[Translate]
 (並進)</td>
 <td>マウス操作で分子の表示位置を変更します。</td>
 </tr>
 <tr align="left" valign="middle">
-<td><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/magnify1.png"><img class="alignnone size-full wp-image-6434" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/magnify1.png" alt="magnify" width="70" height="64" /></a></td>
+<td><img class="alignnone size-full wp-image-6434" src="/img/magnify1.png" alt="magnify" width="70" height="64" /></a></td>
 <td>[Magnify]
 (拡大)</td>
 <td>マウス操作で視点を近づけたり遠ざけたりすることで、分子を拡大、縮小します。マウスのホイールでも代用可能。</td>
 </tr>
 <tr align="left" valign="middle">
-<td><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/distance1.png"><img class="alignnone size-full wp-image-6435" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/distance1.png" alt="distance" width="70" height="64" /></a></td>
+<td><img class="alignnone size-full wp-image-6435" src="/img/distance1.png" alt="distance" width="70" height="64" /></a></td>
 <td>[Distance]
 (距離)</td>
 <td>2つの原子を続けて選択することで、その原子間の距離を情報ウィンドウ(上図H)に表示します。</td>
 </tr>
 <tr align="left" valign="middle">
-<td><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/angle1.png"><img class="alignnone size-full wp-image-6436" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/angle1.png" alt="angle" width="70" height="64" /></a></td>
+<td><img class="alignnone size-full wp-image-6436" src="/img/angle1.png" alt="angle" width="70" height="64" /></a></td>
 <td>[Angle]
 (角度)</td>
 <td>3つの原子を続けて選択(a-b-c)することで、その角度を情報ウィンドウ(上図H)に表示します。</td>
 </tr>
 <tr align="left" valign="middle">
-<td><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/dihedral1.png"><img class="alignnone size-full wp-image-6437" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/dihedral1.png" alt="dihedral" width="70" height="64" /></a></td>
+<td><img class="alignnone size-full wp-image-6437" src="/img/dihedral1.png" alt="dihedral" width="70" height="64" /></a></td>
 <td>[Dihedral]
 (二面角)</td>
 <td>相交わる二平面のなす角を情報ウィンドウ(上図H)に表示します。</td>
