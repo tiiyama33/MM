@@ -1,17 +1,22 @@
-<h2>分子の座標ファイルを作成する</h2>
-<h3>エディタを使って座標ファイルを作る</h3>
-VESTA が表示する分子の構造(原子の位置)は、座標ファイルの中に書かれています。
-先ほど使った、エタノール分子の座標ファイル ethanol.xyz の中(実体)を見てみましょう。
+# 分子の座標ファイルを作成する
+## エディタを使って座標ファイルを作る
+VESTA が表示する分子の構造(原子の位置)は、座標ファイルの中に書かれています。  
+先ほど使った、エタノール分子の座標ファイル ethanol.xyz の中(実体)を見てみましょう。  
 
-実体を見るためには [エディタ] と呼ばれるソフトウェアを使います。
-この授業では [メモ帳] (NotePad)を使います (([メモ帳] は Windows 標準添付のソフトウェアです。)) (Macの人は脚注参照→ ((Mac OS Xの場合、標準で搭載されている[テキストエディタ]が使えます。起動時は[リッチテキスト]モードになっているので、[テキストエディット]-[環境設定...]-[フォーマット]で [標準テキスト]モードに切り替えてください。拡張子(ファイル名の最後の部分)は強制的に .txt となってしまうので、ファイルをセーブした後、ファイル名末尾を .xyz に直してください。 )) )。
+実体を見るためには [エディタ] と呼ばれるソフトウェアを使います。  
+この授業では [メモ帳] (NotePad)を使います。 [メモ帳] は Windows 標準添付のソフトウェアです。   
 
-[メモ帳] は [スタートメニュー]-[Windowsアクセサリ]-[メモ帳] あたりにあると思います。(場所が違う可能性あり)
-<ol>
- 	<li>画面左下の[スタートボタン]を押し、[Windows アクセサリ] の中の[メモ帳]をクリック
+> Mac OS Xの場合、標準で搭載されている[テキストエディタ]が使えます。  
+> 起動時は[リッチテキスト]モードになっているので、[テキストエディット]-[環境設定...]-[フォーマット]で [標準テキスト]モードに切り替えてください。
+> 拡張子(ファイル名の最後の部分)は強制的に .txt となってしまうので、ファイルをセーブした後、ファイル名末尾を .xyz に直してください。
 
-[caption id="attachment_195899" align="alignnone" width="288"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/memo.png"><img class="size-medium wp-image-195899" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/memo-288x300.png" alt="" width="288" height="300" /></a> メモ帳[/caption]</li>
-</ol>
+[メモ帳] は [スタートメニュー]-[Windowsアクセサリ]-[メモ帳] あたりにあると思います。(場所が違う可能性あり)  
+
+- 画面左下の [スタートボタン] を押し、[Windows アクセサリ] の中の [メモ帳] をクリック
+<figure>  
+ <img class="size-medium wp-image-195899" src="/img/memo-288x300.png" alt="" width="288" height="300" />
+ <figcaption>メモ帳</figcaption>
+</figure>
 ダウンロードした ethanol.xyz を、起動した [メモ帳] に Drag &amp; Drop、または [ファイル]-[開く] で 開いてください。
 
 [caption id="attachment_8165" align="alignnone" width="300"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/notepad1.png"><img class="wp-image-8165 size-medium" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/notepad1-300x281.png" alt="ＮotePadでethanol.xyzを開いたところ" width="300" height="281" /></a> [メモ帳] で ethanol.xyzを開いたところ[/caption]ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
