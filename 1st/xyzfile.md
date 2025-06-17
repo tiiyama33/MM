@@ -37,7 +37,8 @@ ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
 
 >[!important]
 > ### 問題 4 (メタン)
-> 下記の座標を利用してメタン分子の座標ファイルを作成し、それを使ってメタンの分子模型を図示せよ。またVESTAを用いてメタン分子のH-C-H結合角を求めよ。
+> 下記の座標を利用してメタン分子の座標ファイルを作成し、それを使ってメタンの分子模型を図示せよ。
+> またVESTAを用いてメタン分子のH-C-H結合角を求めよ。
 >
 > <img class="size-full wp-image-3266 " title="methane" src="/img/methane1.jpg" alt="" width="600" height="267" />
 
