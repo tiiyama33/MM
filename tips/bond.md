@@ -1,21 +1,19 @@
 # 原子間にひく線の設定
 [Ball and Sticks]を選んだときに表示される、原子間の線の引き方について説明します。  
 
-<img class="alignnone size-full wp-image-3252" title="bond" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/bond.png" alt="" width="488" height="339" />
+<img title="bond" src="/img/bond.png" alt="" width="488" height="339" />
 原子間結合の設定画面
-<ul>
- 	<li>メニューから[Edit]-[Bonds...]を選び、上記の設定画面を表示させます。</li>
- 	<li>画面下部の [1 XX XX ...] と書いてある行を一度クリックして[選択]します。
-[Max. length]に、線を引きたい距離より少し大きい値を入れます。
-([Min. length]以上、[Max. length]以下の距離の原子の間に線が引かれる)
-例えば、距離2.48 Å の原子対の間に線を引きたいときは
-[Min. length] = 0, [Max. length] = 2.5 とします。</li>
- 	<li>[Apply]ボタン(または[OK]ボタン)を押します。</li>
-</ul>
-線を消したい場合は[Max length]に元の値を入れ、(初期値は1.601) [Apply]を押します。
+
+- メニューから[Edit]-[Bonds...]を選び、上記の設定画面を表示させます。
+- 画面下部の [1 XX XX ...] と書いてある行を一度クリックして[選択]します。
+- [Max. length]に、線を引きたい距離より少し大きい値を入れます。  
+([Min. length]以上、[Max. length]以下の距離の原子の間に線が引かれる)  
+例えば、距離2.48 Å の原子対の間に線を引きたいときは [Min. length] = 0, [Max. length] = 2.5 とします。
+- [Apply]ボタン(または[OK]ボタン)を押します。
+
+線を消したい場合は[Max length]に元の値を入れ、(初期値は1.601) [Apply] を押します。
 
 他
-<ul>
- 	<li>特定の種類の原子の間に結合を引きたい場合、
-[Search A2 bonded to A1]を選んで、[A1]と[A2]に原子種を設定し、[Min. length]と[Max. length]に原子間距離の最小値と最大値を入力し、[Apply]を押すと、指定した範囲内の距離に結合が引かれる。</li>
- 	<li>結合を表す線の太さや色の設定は[Objects]-[Properties]-[General...]-[Bonds]で行える。</li>
+- 特定の種類の原子の間に結合を引きたい場合、  
+[Search A2 bonded to A1]を選んで、[A1]と[A2]に原子種を設定し、[Min. length]と[Max. length]に原子間距離の最小値と最大値を入力し、[Apply]を押すと、指定した範囲内の距離に結合が引かれる。
+- 結合を表す線の太さや色の設定は[Objects]-[Properties]-[General...]-[Bonds]で行える。
