@@ -88,7 +88,7 @@ ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
 次の方法で、エクセルを使って xyz ファイルに入力するデータを作成することができます。
 
 |<img class="size-full wp-image-3269 " title="excel" src="/img/excel.png" alt="" width="630" height="425" />|
-|---|
+|:---:|
 |エクセルで座標を並べたところ (例はメタン分子。数値は正しい値ではありません)|
 
 
@@ -102,7 +102,7 @@ ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
 
 
 |<img class="size-full wp-image-3270 " title="paste" src="/img/paste.png" alt="" width="511" height="274" /> |
-|---|
+|:---:|
 |エディタにペーストしたところ|
 
 これでエクセルから [メモ帳] にデータを移動し、.xyz ファイルを作る方法が分かりました。
