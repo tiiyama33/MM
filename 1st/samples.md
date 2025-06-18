@@ -40,7 +40,7 @@ pH 指示薬は、pH によって構造が変化したり、水素イオンと�
 <a href="https://drive.google.com/file/d/1Z5XXcAQRaiicq_TBowEKGL3DerKX7qmX" download="AscorbicAcid.xyz">ビタミンC</a> (アスコルビン酸, C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>)
 光学異性体があり、ビタミン C として知られる異性体は L 体  
 ビタミンは生体内で合成できない、体内での生体反応を円滑に行うために必要な有機化合物の総称です。現在は 13 種類に分類されているようです。  
-参考→国立健康・栄養研究所( http://hfnet.nih.go.jp/contents/detail178.html )
+参考→医薬基盤・健康・栄養研究所( [http://hfnet.nih.go.jp/contents/detail178.html](https://hfnet.nibn.go.jp/vitamin/detail178/) )
 (ビタミンB<sub>1</sub>の硫黄原子のところが切れて見えますが、そこに結合がないわけではありません。<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)</li>
 </ul>
 データ出典
