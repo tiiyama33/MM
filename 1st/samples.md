@@ -17,7 +17,7 @@ http://turin.nss.udel.edu/research/tubegenonline.html (英語)
 <a href="https://drive.google.com/file/d/19EcQFj25s2QC-MvXxcVhTctWRi24v0Us" download="tcdd.xyz">2,3,7,8-テトラクロロジベンゾ-1,4ジオキシン</a> <sup>2</sup> (ポリ塩化ジベンゾパラジオキシン)  
 <a href="https://drive.google.com/file/d/1HTyrWItw_NBWy4wRBtVF-tDva2PaCLgA" download="4cdf1.xyz">2,3,7,8-テトラクロロジベンゾフラン</a> <sup>2</sup> (ポリ塩化ジベンゾフラン)  
 ダイオキシンは非常に毒性の高い化合物で、燃焼温度の低い焼却炉などで発生することが問題となりました。ダイオキシンは上記の化合物を含む、ポリ塩化ジベンゾパラジオキシンとポリ塩化ジベンゾフランの異性体の総称です。  
-(塩素原子のところが切れて見えますが、そこに結合がないわけではありません。<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)
+(塩素原子のところが切れて見えますが、そこに結合がないわけではありません。<a title="原子間にひく線の設定" href="/tips/bond.md">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)
 
  	<li>フロン類
 <a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/CCl2F2.xyz">ジクロロジフルオロメタン</a>(CCl<sub>2</sub>F<sub>2</sub>, CFC-12)
