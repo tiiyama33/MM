@@ -35,3 +35,5 @@ windows 11 の場合、VESTA.zip をダブルクリックすると、下記の�
 画面下部にでてきたアイコンを右クリックして、[スタートにピン留めする]を選べば、スタートメニューから vesta が起動できるようになります。
 <img class="wp-image-194423 size-full" src="/img/final.png" alt="vesta.exe" width="450" />
 <img class="wp-image-194424 size-full" src="/img/final-2.png" alt="スタートメニュー" width="450" />
+
+[前＜](aim.md) [目次](/README.md) [＞次](howtouse.md)
