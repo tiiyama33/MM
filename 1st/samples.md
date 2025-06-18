@@ -32,13 +32,14 @@ DNA(デオキシリボ核酸)には上記の 4 つの塩基が結合しており
 (<a href="https://drive.google.com/file/d/15DMqeSCyD6mh7NSFeHGBsknxDYj5pIqm" download="phph1.xyz">pH &lt; 8.3, 無色</a> <sup>2</sup>)-(<a href="https://drive.google.com/file/d/1sYLOWBDSU0i2oXa8qTH__Nj6zX-LptWM" download="phph2.xyz">pH = 8.3～11.0, 赤色</a> <sup>2</sup>)-(<a href="https://drive.google.com/file/d/16P987acco_GjroWYkW7W-K03H_qdcQZD" download="phph3.xyz">pH &gt; 11.0, 無色</a> <sup>2</sup>)  
 <a href="https://drive.google.com/file/d/1f8U9xhCnE5dM8NQoLj6XWPGnc6utEbP-" download="MO.xyz">メチルオレンジ</a>(C<sub>14</sub>H<sub>14</sub>N<sub>3</sub>SO<sub>3</sub><sup>-</sup>Na<sup>+</sup>)  
 pH 指示薬は、pH によって構造が変化したり、水素イオンと解離してイオンになったりすることで、吸収する光の波長が変わる有機化合物です。  
-(メチルオレンジの硫黄原子のところが切れて見えますが、そこに結合がないわけではありません。<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)</li>
- 	<li><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Caffeine.xyz">カフェイン</a>*3 (C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>)
-コーヒーやお茶に含まれており、興奮剤、利尿剤、強心剤としての作用が知られています。</li>
- 	<li>ビタミン
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Thiamin.xyz">ビタミンB1</a> (チアミン, C<sub>12</sub>H<sub>17</sub>N<sub>4</sub>OS<sup>+</sup>) 日本の鈴木梅太郎博士が初めて単離(1910 年)
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/AscorbicAcid.xyz">ビタミンC</a> (アスコルビン酸, C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>) 光学異性体があり、ビタミン C として知られる異性体は L 体
-ビタミンは生体内で合成できない、体内での生体反応を円滑に行うために必要な有機化合物の総称です。現在は 13 種類に分類されているようです。
+- <a href="https://drive.google.com/file/d/1SraD6ygHb2YLCTKHJgc__jA4oibX-9ID" download="Caffeine.xyz">カフェイン</a> <sup>3</sup> (C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>)  
+コーヒーやお茶に含まれており、興奮剤、利尿剤、強心剤としての作用が知られています。
+- ビタミン  
+<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Thiamin.xyz">ビタミンB1</a> (チアミン, C<sub>12</sub>H<sub>17</sub>N<sub>4</sub>OS<sup>+</sup>)
+日本の鈴木梅太郎博士が初めて単離(1910 年)  
+<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/AscorbicAcid.xyz">ビタミンC</a> (アスコルビン酸, C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>)
+光学異性体があり、ビタミン C として知られる異性体は L 体  
+ビタミンは生体内で合成できない、体内での生体反応を円滑に行うために必要な有機化合物の総称です。現在は 13 種類に分類されているようです。  
 参考→国立健康・栄養研究所( http://hfnet.nih.go.jp/contents/detail178.html )
 (ビタミンB<sub>1</sub>の硫黄原子のところが切れて見えますが、そこに結合がないわけではありません。<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)</li>
 </ul>
