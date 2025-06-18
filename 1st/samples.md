@@ -35,9 +35,9 @@ pH 指示薬は、pH によって構造が変化したり、水素イオンと�
 - <a href="https://drive.google.com/file/d/1SraD6ygHb2YLCTKHJgc__jA4oibX-9ID" download="Caffeine.xyz">カフェイン</a> <sup>3</sup> (C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>)  
 コーヒーやお茶に含まれており、興奮剤、利尿剤、強心剤としての作用が知られています。
 - ビタミン  
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Thiamin.xyz">ビタミンB1</a> (チアミン, C<sub>12</sub>H<sub>17</sub>N<sub>4</sub>OS<sup>+</sup>)
+<a href="https://drive.google.com/file/d/1GEj1EMTYGDI53952RRBQxCUTLuU5DDir" download="Thiamin.xyz">ビタミンB1</a> (チアミン, C<sub>12</sub>H<sub>17</sub>N<sub>4</sub>OS<sup>+</sup>)
 日本の鈴木梅太郎博士が初めて単離(1910 年)  
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/AscorbicAcid.xyz">ビタミンC</a> (アスコルビン酸, C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>)
+<a href="https://drive.google.com/file/d/1Z5XXcAQRaiicq_TBowEKGL3DerKX7qmX" download="AscorbicAcid.xyz">ビタミンC</a> (アスコルビン酸, C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>)
 光学異性体があり、ビタミン C として知られる異性体は L 体  
 ビタミンは生体内で合成できない、体内での生体反応を円滑に行うために必要な有機化合物の総称です。現在は 13 種類に分類されているようです。  
 参考→国立健康・栄養研究所( http://hfnet.nih.go.jp/contents/detail178.html )
