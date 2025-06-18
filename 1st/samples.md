@@ -29,9 +29,9 @@ http://turin.nss.udel.edu/research/tubegenonline.html (英語)
 DNA(デオキシリボ核酸)には上記の 4 つの塩基が結合しており、その配列によって遺伝情報を保持しています。
 - pH 指示薬  
 フェノールフタレイン(C<sub>20</sub>H<sub>14</sub>O<sub>4</sub>)  
-(<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/phph1.xyz">pH &lt; 8.3, 無色</a>*2)-(<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/phph2.xyz">pH = 8.3～11.0, 赤色</a>*2)-(<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/phph3.xyz">pH &gt; 11.0, 無色</a>*2)
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/MO.xyz">メチルオレンジ</a>(C<sub>14</sub>H<sub>14</sub>N<sub>3</sub>SO<sub>3</sub><sup>-</sup>Na<sup>+</sup>)
-pH 指示薬は、pH によって構造が変化したり、水素イオンと解離してイオンになったりすることで、吸収する光の波長が変わる有機化合物です。
+(<a href="https://drive.google.com/file/d/15DMqeSCyD6mh7NSFeHGBsknxDYj5pIqm" download="phph1.xyz">pH &lt; 8.3, 無色</a> <sup>2</sup>)-(<a href="https://drive.google.com/file/d/1sYLOWBDSU0i2oXa8qTH__Nj6zX-LptWM" download="phph2.xyz">pH = 8.3～11.0, 赤色</a> <sup>2</sup>)-(<a href="https://drive.google.com/file/d/16P987acco_GjroWYkW7W-K03H_qdcQZD" download="phph3.xyz">pH &gt; 11.0, 無色</a> <sup>2</sup>)  
+<a href="https://drive.google.com/file/d/1f8U9xhCnE5dM8NQoLj6XWPGnc6utEbP-" download="MO.xyz">メチルオレンジ</a>(C<sub>14</sub>H<sub>14</sub>N<sub>3</sub>SO<sub>3</sub><sup>-</sup>Na<sup>+</sup>)  
+pH 指示薬は、pH によって構造が変化したり、水素イオンと解離してイオンになったりすることで、吸収する光の波長が変わる有機化合物です。  
 (メチルオレンジの硫黄原子のところが切れて見えますが、そこに結合がないわけではありません。<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)</li>
  	<li><a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Caffeine.xyz">カフェイン</a>*3 (C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>)
 コーヒーやお茶に含まれており、興奮剤、利尿剤、強心剤としての作用が知られています。</li>
