@@ -153,4 +153,4 @@ ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
 >
 >1 pm (ピコメートル) = 0.01 Å
 
-[前＜](molecule.md) [目次](/README.md) [＞次](/2nd/solid.md)
+[前＜](molecule.md) [目次](/README.md) [＞次](solid.md)
