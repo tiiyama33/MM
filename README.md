@@ -4,17 +4,13 @@
 
 情報科学演習、二村・飯山担当分では 4回にわたって、コンピュータ上での「分子模型」の描画 を扱います。
 
-- 1週目 (水分子やベンゼン分子を描く)
-  - [授業の目標](docs/aim.md)
-  - [VESTAのインストール](docs/install.md)
-  - [VESTAの使い方](docs/howtouse.md)
-  - [分子を描く](docs/molecule.md)
-    - [いろいろな分子](docs/samples.md)  
-  - [分子の座標ファイルを作成する](docs/xyzfile.md)
-- 2週目 (結晶の単位格子を描く)
-  - [固体の構造を描く](docs/solid.md)  
-- 3週目 (食塩や鉄の結晶の構造を描く)
-- 4週目 (氷や、より複雑な結晶の構造を描く)
+- [授業の目標](docs/aim.md)
+- [VESTAのインストール](docs/install.md)
+- [VESTAの使い方](docs/howtouse.md)
+- [分子を描く](docs/molecule.md)
+  - [いろいろな分子](docs/samples.md)  
+- [分子の座標ファイルを作成する](docs/xyzfile.md)
+- [固体の構造を描く](docs/solid.md)  
 - Tips
   - [原子間にひく線の設定](tips/bond.md)
 - [レポートについて](tips/report.md)
