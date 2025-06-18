@@ -14,7 +14,7 @@
 
   
 - 答えを書くだけでなく、説明の文章を入れること。
-- 図には番号を付け、図の<strong>下</strong>にタイトルをつけること  
+- 図には番号を付け、図の**下**にタイトルをつけること  
 (例↓)
 
 |<img class="wp-image-8136 size-medium" src="/img/Adenine-bs2.png" alt="" width="300" height="228" />|
