@@ -1,4 +1,4 @@
-# 授業の目標
+![image](https://github.com/user-attachments/assets/d0475e5d-ba9b-4c9e-b777-d9ce7f3d53c6)# 授業の目標
 
 エクセルを使って原子の座標を計算し、構造可視化ソフトVESTAを使って分子模型を描きます。
 
@@ -25,9 +25,7 @@
 VESTA(Visualization for Electronic and STructural Analysis)は構造解析ソフトウェア VENUS の一部で、東北大の門馬綱一氏によって製作された構造可視化ソフトウェアです。  
 今回はこのソフトウェアを使って、種々の分子や固体の構造を立体的に表す手法を学びます。  
 
-インストールされた VESTA のフォルダ中の vesta.exe をダブルクリックすれば VESTAが起動します。  
-
-自分のPCにvestaをインストールする場合は、[「自分のPCにVESTAをインストールする」](install.md) を参照してください。  
+[「自分のPCにVESTAをインストールする」](install.md) を参照して、各自 VESTA を自分のPCにインストールしてください。  
 
 
 >[!note]
