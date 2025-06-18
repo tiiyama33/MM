@@ -1,6 +1,6 @@
 他の分子の座標データです。ニュース等で話題になった分子が、実際にはどんな姿をしているのか確かめてください。
 
-- C<sub>60</sub> (<a href="https://drive.google.com/file/d/1iZFIsWPXU0127XlVJwRk2M8UK-KkCzHW">C60-Ih.xyz</a>*1)  
+- C<sub>60</sub> (<a href="https://drive.google.com/file/d/1iZFIsWPXU0127XlVJwRk2M8UK-KkCzHW" download="C60-Ih.xyz">C60-Ih.xyz</a>*1)  
 フラーレンと呼ばれる、炭素原子だけで構成されたサッカーボール状の分子です。炭素の第 3 の同素体として注目を集め、発見者の Kroto らは 1996 年のノーベル化学賞を受賞しました。  
 フラーレンはC<sub>60</sub>の他に、C<sub>70</sub> (<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/C70-D5h.xyz">C70-D5h.xyz</a>*1), C<sub>84</sub> (<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/C84-D2.xyz">C84-D2.xyz</a>*1)など多くの存在が知られています。これらの構造は「隣り合わない五員環」を12個含んでいます。</li>
 
