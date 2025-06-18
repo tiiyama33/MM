@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d0475e5d-ba9b-4c9e-b777-d9ce7f3d53c6)# 授業の目標
+# 授業の目標
 
 エクセルを使って原子の座標を計算し、構造可視化ソフトVESTAを使って分子模型を描きます。
 
