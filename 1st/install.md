@@ -26,12 +26,12 @@ windows 11 の場合、VESTA.zip をダブルクリックすると、下記の�
 圧縮されたままだとプログラムを動かすことができないので、上部メニューから  
 [すべて展開]を選びます。<br><img class="wp-image-194416 size-full" src="/img/zip-2.png" alt="VESTA.zip の展開" width="600" />
 1. 展開するフォルダーを聞かれるので、通常そのまま[展開]を選びます。
-1. この状態でもプログラムは動きますが、正しいフォルダーに移動した方が良いでしょう。もうひとつウィンドウ(ファイルエクスプローラ)を開き、下記のように、展開した中にある VESTA-win64フォルダー を c:¥program files に移動します。
-[管理者の権限が必要です]と聞かれるので[続行]を選びます。<br><img class="wp-image-194417 size-full" src="/img/move-2.png" alt="展開したvestaフォルダーを program files (x86)に移動" width="600" height="650" />
+1. この状態でもプログラムは動きますが、正しいフォルダーに移動した方が良いでしょう。もうひとつウィンドウ(ファイルエクスプローラ)を開き、下記のように、展開した中にある VESTA-win64フォルダー を c:¥program files に移動します。  
+[管理者の権限が必要です]と聞かれるので[続行]を選びます。<br><img class="wp-image-194417 size-full" src="/img/move-2.png" alt="展開したvestaフォルダーを program files (x86)に移動" width="600" />
 > 32bit版をダウンロードした場合の移動先　c:¥program files (x86)
 1. 移動した c:¥program files¥vesta 中にある、[VESTA.exe] がプログラム本体です。  
 ダブルクリックして起動しましょう。  
 [WindowsによってPCが保護されました] と表示された場合には [詳細情報] を押して [実行] してください。(初回のみ)  
-画面下部にでてきたアイコンを右クリックして、[タスクバーにピン留めする]を選べば、タスクバーから vesta が起動できるようになります。
+画面下部にでてきたアイコンを右クリックして、[スタートにピン留めする]を選べば、スタートメニューから vesta が起動できるようになります。
 <img class="wp-image-194423 size-full" src="/img/final.png" alt="vesta.exe" width="450" height="357" />
 <img class="wp-image-194424 size-full" src="/img/menu.png" alt="スタートメニュー" width="272" height="294" />
