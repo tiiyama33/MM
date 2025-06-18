@@ -47,7 +47,7 @@ pH 指示薬は、pH によって構造が変化したり、水素イオンと�
 > <a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)
 
 データ出典  
-<sup>1</sup> 豊橋技術科学大 吉田満帆氏のホームページよりhttp://www.cochem2.tutkie.tut.ac.jp/Fuller/Fuller.html (残念ながらリンク切れ)  
+<sup>1</sup> 豊橋技術科学大 吉田満帆氏のホームページより (残念ながらリンク切れ)  
 <sup>2</sup> 本間善夫氏(「パソコンで見る動く分子事典」著者)、「生活環境化学の部屋」より  
 生活環境科学の部屋 http://www.ecosci.jp/bunsi_all2w.html  
 非常に多くの分子のモデルが収録されています。右クリック-[名前をつけてリンク先を保存]、.mol形式で保存、  
