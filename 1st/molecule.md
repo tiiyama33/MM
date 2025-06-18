@@ -1,13 +1,15 @@
-<h2>VESTAの使い方(続き)</h2>
-<h3>表示方法の変更</h3>
-1 年後期の基礎物理化学で学ぶ「量子力学」で明らかになるように、原子は<strong>原子核</strong>と、そのまわりにぼんやりと広がった<strong>電子雲</strong>から構成されており、原子同士が共有結合等でつながって分子となります。目的に合わせて、原子やその結合を球や棒で表して分子の姿を描きます。
+# VESTAの使い方(続き)
+## 表示方法の変更
+
+1 年後期の基礎物理化学で学ぶ「量子力学」で明らかになるように、原子は**原子核**と、そのまわりにぼんやりと広がった**電子雲**から構成されており、原子同士が共有結合等でつながって分子となります。目的に合わせて、原子やその結合を球や棒で表して分子の姿を描きます。
 
 分子の表示方法は左メニューの[Style]で切り替えることができます。
 初期設定では分子が Ball &amp; Stick モデルで表示されています。van der Waals半径 での表示に切り替えてみましょう。
-<ul>
- 	<li>[Ball and Stick] 球と棒のモデル
+- [Ball and Stick] 球と棒のモデル
 
-[caption id="attachment_8136" align="alignright" width="300"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-bs2.png"><img class="size-medium wp-image-8136" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-bs2-300x228.png" alt="Ball&amp;Stickモデルで描いたアデニン" width="300" height="228" /></a> Ball&amp;Stickモデルで描いたアデニン[/caption]
+|<img class="size-medium wp-image-8136" src="/img/Adenine-bs2.png" alt="Ball&amp;Stickモデルで描いたアデニン" width="300" height="228" />|
+|:---:|
+|Ball&amp;Stickモデルで描いたアデニン|
 
 初期設定です。球の直径は、実際の原子の大きさよりもかなり小さい値が設定されています。</li>
  	<li><strong>[Space-filling] 空間充填モデル</strong>
