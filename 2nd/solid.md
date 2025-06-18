@@ -117,11 +117,11 @@ $マークをうまく使えば、座標部分は 単純なコピー &amp; ペ�
 
 2 次元で例を挙げます。下記のような結晶があるとき、
 
-<img class="alignnone size-full wp-image-3317" title="repeat2d" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/repeat2d.png" alt="" width="341" height="254" />
+<img class="alignnone size-full wp-image-3317" title="repeat2d" src="/img/repeat2d.png" alt="" width="341" height="254" />
 
-単位格子を<img class="alignnone size-full wp-image-3318" title="cell1" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/cell1.png" alt="" width="101" height="101" />とすると、単位格子に含まれる原子数は2であり、
-上記の結晶は例えば<img class="alignnone size-full wp-image-3319" title="cell2" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/cell2.png" alt="" width="101" height="101" />の繰り返しで表すことができます。
-<img class="alignnone size-full wp-image-3320" title="cell3" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/cell3.png" alt="" width="101" height="101" />の繰り返しをすると、原子が重複してしまいます。
+単位格子を<img class="alignnone size-full wp-image-3318" title="cell1" src="/img/cell1.png" alt="" width="101" height="101" />とすると、単位格子に含まれる原子数は2であり、
+上記の結晶は例えば<img class="alignnone size-full wp-image-3319" title="cell2" src="/img/cell2.png" alt="" width="101" height="101" />の繰り返しで表すことができます。
+<img class="alignnone size-full wp-image-3320" title="cell3" src="/img/cell3.png" alt="" width="101" height="101" />の繰り返しをすると、原子が重複してしまいます。
 
 <a title="問題 8 のヒント" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3323">もう少し詳しい説明</a>(←クリック！)
 
