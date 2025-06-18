@@ -25,7 +25,7 @@ vestaは手動でインストールを行う必要があります。以下、Win
 windows 11 の場合、VESTA.zip をダブルクリックすると、下記のように圧縮ファイルの中身を見るモードになります。  
 圧縮されたままだとプログラムを動かすことができないので、上部メニューから  
 [すべて展開]を選びます。
-<img class="wp-image-194416 size-full" src="/img/zip-2.png" alt="VESTA.zip の展開" width="450" height="304" />
+<img class="wp-image-194416 size-full" src="/img/zip-2.png" alt="VESTA.zip の展開" width="600" />
 1. 展開するフォルダーを聞かれるので、通常そのまま[展開]を選びます。  
 1. この状態でもプログラムは動きますが、正しいフォルダーに移動した方が良いでしょう。もうひとつウィンドウ(ファイルエクスプローラ)を開き、下記のように、展開した vestaフォルダー を c:¥program files に移動します。
 > 32bit版をダウンロードした場合、c:¥program files (x86)
