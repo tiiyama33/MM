@@ -35,3 +35,5 @@ VESTA(Visualization for Electronic and STructural Analysis)は構造解析ソフ
 >
 > - 門馬綱一氏のVESTAのページ
 > http://jp-minerals.org/jp/</li>
+
+[目次](/README.md) [＞次](install.md)
