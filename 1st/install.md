@@ -13,7 +13,7 @@ VESTAは論文等の図 として使用する場合は論文中にソフトウ�
 <a class="wpel-icon-right" href="http://jp-minerals.org/jp/" target="blank" rel="external noopener noreferrer" data-wpel-link="external"><img class="alignnone size-full wp-image-194412" src="/img/minerals.png" alt="JP-minerals" width="400" height="445" /></a>
 1. 左メニューから<br />[VESTA]-[Download]を選択
 1. License agreementを確認して、  
-[Latest versions]から自分のPCに合ったものをダウンロードします。Windowsであれば VESTA-win64.zip でよいでしょう。
+[Latest versions]から自分のPCに合ったものをダウンロードします。Windowsであれば **VESTA-win64.zip** (64-bit Windwos用) でよいでしょう。
 
 
 ## インストール
@@ -28,7 +28,7 @@ windows 11 の場合、VESTA.zip をダブルクリックすると、下記の�
 1. 展開するフォルダーを聞かれるので、通常そのまま[展開]を選びます。
 1. この状態でもプログラムは動きますが、正しいフォルダーに移動した方が良いでしょう。もうひとつウィンドウ(ファイルエクスプローラ)を開き、下記のように、展開した中にある VESTA-win64フォルダー を c:¥program files に移動します。
 > 32bit版をダウンロードした場合の移動先　c:¥program files (x86)
-<img class="wp-image-194417 size-full" src="/img/move.png" alt="展開したvestaフォルダーを program files (x86)に移動" width="542" height="650" />
+<img class="wp-image-194417 size-full" src="/img/move.png" alt="展開したvestaフォルダーを program files (x86)に移動" width="600" height="650" />
 [管理者の権限が必要です]と聞かれるので[続行]を選びます。
 1. 移動した c:¥program files (x86)¥vesta 中にある、[VESTA.exe] がプログラム本体です。いったん右クリックして、[スタートにピン留めする]を選べば、スタートメニューから vesta が起動できるようになります。
 <img class="wp-image-194423 size-full" src="/img/final.png" alt="vesta.exe" width="450" height="357" />
