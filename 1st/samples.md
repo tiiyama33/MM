@@ -48,7 +48,8 @@ pH 指示薬は、pH によって構造が変化したり、水素イオンと�
 
 データ出典  
 <sup>1</sup> 豊橋技術科学大 吉田満帆氏のホームページよりhttp://www.cochem2.tutkie.tut.ac.jp/Fuller/Fuller.html (残念ながらリンク切れ)  
-<sup>2</sup> 本間善夫氏(「パソコンで見る動く分子事典」著者)、「生活環境化学の部屋」よりhttp://www.ecosci.jp/bunsi_all2w.html  
-(掲載されているファイル形式(.mol)は、そのままではvestaでは使えないようです。)  
+<sup>2</sup> 本間善夫氏(「パソコンで見る動く分子事典」著者)、「生活環境化学の部屋」より  
+生活環境科学の部屋 http://www.ecosci.jp/bunsi_all2w.html  
+非常に多くの分子のモデルが収録されています。右クリック-[名前をつけてリンク先を保存]、.mol形式で保存、VESTAで開く
 <sup>3</sup> winmoster ( http://winmostar.com/ )同梱  
 他はwinmosterとMOPAC7(分子軌道計算プログラム)によって飯山が計算
