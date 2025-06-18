@@ -27,8 +27,7 @@ VESTA(Visualization for Electronic and STructural Analysis)は構造解析ソフ
 
 インストールされた VESTA のフォルダ中の vesta.exe をダブルクリックすれば VESTAが起動します。  
 
-自分のPCにvestaをインストールする場合は、<a href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=194409">「自分のPCにVESTAをインストールする」</a>を参照してください。  
-PC実習室のPCを使っている場合は <a href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=195281">「PC実習室のPCでVESTAを起動」</a>を参照してください。  
+自分のPCにvestaをインストールする場合は、[「自分のPCにVESTAをインストールする」](1st/install.md) を参照してください。  
 
 
 >[!note]
