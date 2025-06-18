@@ -43,10 +43,10 @@ pH 指示薬は、pH によって構造が変化したり、水素イオンと�
 参考→医薬基盤・健康・栄養研究所( [http://hfnet.nih.go.jp/contents/detail178.html](https://hfnet.nibn.go.jp/vitamin/detail178/) )
 
 >[!note]
->一部の分子で、(ビタミンB<sub>1</sub>など) 化学結合が切れて見えるものがあります。これはVESTAの ball & stick モデルは化学結合性を評価しているのではなく、原子ごとに一定の距離より近いものに単純に線を引いているためです。
+>一部の分子(ビタミンB<sub>1</sub>など)で、化学結合が切れて見えるものがあります。これはVESTAの ball & stick モデルは化学結合性を評価しているのではなく、原子ごとに一定の距離より近いものに単純に線を引いているためです。
 > <a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)
 
-データ出典
+データ出典  
 <sup>1</sup> 豊橋技術科学大 吉田満帆氏のホームページよりhttp://www.cochem2.tutkie.tut.ac.jp/Fuller/Fuller.html (残念ながらリンク切れ)  
 <sup>2</sup> 本間善夫氏(「パソコンで見る動く分子事典」著者)、「生活環境化学の部屋」よりhttp://www.ecosci.jp/bunsi_all2w.html  
 (掲載されているファイル形式(.mol)は、そのままではvestaでは使えないようです。)  
