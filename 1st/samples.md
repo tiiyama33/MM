@@ -41,12 +41,14 @@ pH 指示薬は、pH によって構造が変化したり、水素イオンと�
 光学異性体があり、ビタミン C として知られる異性体は L 体  
 ビタミンは生体内で合成できない、体内での生体反応を円滑に行うために必要な有機化合物の総称です。現在は 13 種類に分類されているようです。  
 参考→医薬基盤・健康・栄養研究所( [http://hfnet.nih.go.jp/contents/detail178.html](https://hfnet.nibn.go.jp/vitamin/detail178/) )
-(ビタミンB<sub>1</sub>の硫黄原子のところが切れて見えますが、そこに結合がないわけではありません。<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)</li>
-</ul>
+
+>[!note]
+>一部の分子で、(ビタミンB<sub>1</sub>など) 化学結合が切れて見えるものがあります。これはVESTAの ball & stick モデルは化学結合性を評価しているのではなく、原子ごとに一定の距離より近いものに単純に線を引いているためです。
+> <a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">「結合」の設定</a>で、線を引く距離を正しく設定すると結合が表示されます。)
+
 データ出典
-*1 豊橋技術科学大 吉田満帆氏のホームページよりhttp://www.cochem2.tutkie.tut.ac.jp/Fuller/Fuller.html
-(残念ながらリンク切れ)
-*2 本間善夫氏(「パソコンで見る動く分子事典」著者)、「生活環境化学の部屋」よりhttp://www.ecosci.jp/bunsi_all2w.html
-(掲載されているファイル形式(.mol)は、そのままではvestaでは使えないようです。)
-*3 winmoster ( http://winmostar.com/ )同梱
+<sup>1</sup> 豊橋技術科学大 吉田満帆氏のホームページよりhttp://www.cochem2.tutkie.tut.ac.jp/Fuller/Fuller.html (残念ながらリンク切れ)  
+<sup>2</sup> 本間善夫氏(「パソコンで見る動く分子事典」著者)、「生活環境化学の部屋」よりhttp://www.ecosci.jp/bunsi_all2w.html  
+(掲載されているファイル形式(.mol)は、そのままではvestaでは使えないようです。)  
+<sup>3</sup> winmoster ( http://winmostar.com/ )同梱  
 他はwinmosterとMOPAC7(分子軌道計算プログラム)によって飯山が計算
