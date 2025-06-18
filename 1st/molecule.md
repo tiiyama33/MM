@@ -1,0 +1,132 @@
+<h2>VESTAの使い方(続き)</h2>
+<h3>表示方法の変更</h3>
+1 年後期の基礎物理化学で学ぶ「量子力学」で明らかになるように、原子は<strong>原子核</strong>と、そのまわりにぼんやりと広がった<strong>電子雲</strong>から構成されており、原子同士が共有結合等でつながって分子となります。目的に合わせて、原子やその結合を球や棒で表して分子の姿を描きます。
+
+分子の表示方法は左メニューの[Style]で切り替えることができます。
+初期設定では分子が Ball &amp; Stick モデルで表示されています。van der Waals半径 での表示に切り替えてみましょう。
+<ul>
+ 	<li>[Ball and Stick] 球と棒のモデル
+
+[caption id="attachment_8136" align="alignright" width="300"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-bs2.png"><img class="size-medium wp-image-8136" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-bs2-300x228.png" alt="Ball&amp;Stickモデルで描いたアデニン" width="300" height="228" /></a> Ball&amp;Stickモデルで描いたアデニン[/caption]
+
+初期設定です。球の直径は、実際の原子の大きさよりもかなり小さい値が設定されています。</li>
+ 	<li><strong>[Space-filling] 空間充填モデル</strong>
+物理的に意味のある大きさで原子を描きます。
+表示される原子の直径は次の方法で切り替えます。
+<ol>
+ 	<li>[Properties...]ボタン(左メニュー[Style]の下のほう)を押す。</li>
+ 	<li>[Atoms]タグを選択。</li>
+ 	<li>[Atom style]-[Show as balls]でRadii Type(直径のタイプ)を切り替える
+<ul>
+ 	<li>[Atomic] 原子半径
+同種原子が作る化学結合距離の半分の値が半径として設定されています。</li>
+ 	<li>[Ionic] イオン半径
+イオンとなったときの半径が設定されています。(C や O は通常イオン化していないので、エタノールではあまり意味がない)</li>
+ 	<li><strong><strong>[van der Waals] ファンデルワールス半径</strong></strong>
+
+[caption id="attachment_8138" align="alignright" width="300"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-vw2.png"><img class="size-medium wp-image-8138" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-vw2-300x228.png" alt="van der Waals半径で描いたアデニン" width="300" height="228" /></a> van der Waals半径で描いたアデニン[/caption]
+
+原子は、原子核とその周辺にぼんやりと広がった電子雲からできており、大きさがいくつとはっきり言うことはできません。ファン・デル・ワールスは原子をを硬い球(剛体球)として取り扱うことを提唱し、液体の密度などから原子ごとにその大きさ(ファンデルワールス半径)が定められました。[van der Waals]を選択すると、このファンデルワールス半径を使って分子が描かれます。エタノールではファンデルワールス半径を使った描画が、実際の分子の大きさのイメージに最も近いでしょう。</li>
+</ul>
+表示される原子の半径(Radius)や色は、必要があれば画面下の[Radius and color]で原子種を選択して設定することができます。(<strong>半径はうかつに変更してはいけない。</strong>色は左からRed、Green、Blue(光の 3 原色)を 256 段階で表している。)
+
+ついでですが、原子は多角形の回転体として表示されているので、[Resolution]の値(Stacks, Slices 両方)を(60くらいに)大きくすると、つるつるの球として表示されます。(やりすぎると表示に時間がかかります)
+
+以上の変更は[OK]を押さないとキャンセルされてしまいます。
+また<strong>[Space-filling]が選ばれているときだけ有効です。注意。</strong></li>
+</ol>
+</li>
+</ul>
+[caption id="attachment_195894" align="aligncenter" width="400"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/miss.png"><img class="wp-image-195894" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/miss-300x237.png" alt="間違いの例" width="400" height="317" /></a> [注意] 上の例では表示が van der Waals 半径になっていません。左メニューで [Space-filling] が選ばれていないのが原因です。[/caption]
+<ul>
+ 	<li>その他の表示法に興味がある場合は<a title="VESTAのその他の項目" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=6536">別ページ</a>を参照してください。</li>
+</ul>
+[help]
+<h4><strong>問題 2</strong> (エタノールの図示)</h4>
+<strong>ファンデルワールス半径</strong>を使って描いたエタノールの図をレポート中に示してください。
+(上記の方法で vesta 上に分子を表示し、下記の方法で 画像ファイル(pngファイル)を作製し、そのファイルをワードに 貼りつけます。)
+[/help]
+
+<hr style="width: 650px;" />
+
+<h3>分子模型の図をファイルとして出力する</h3>
+以下の操作で、分子の図を画像ファイル(png ファイル)に出力することができます。ファイル名を変えてセーブすれば、何枚でも図を保存しておくことができます。
+
+<strong>画面に表示されている図がそのまま出力</strong>されますので、分子がはみ出していたり、分子が小さすぎて余白が大きくならないように、大きさを調整しておきましょう。
+<ol>
+ 	<li>VESTAのメニューから [File]-[Export Raster Image...] を選択</li>
+ 	<li>ファイル形式を選びます。png 形式でよいでしょう。</li>
+ 	<li>内容が分かるような適切なファイル名をつけ、フォルダーに保存します。
+(例: ethanol-ball-side.png など)
+<strong>日本語のファイル名やフォルダ名を使うと、うまくセーブできない場合があります。</strong></li>
+ 	<li>図のスケールを聞かれるので、通常は 1 とします。(2 と入れると倍の大きさで出力される。)</li>
+ 	<li>[ファイルを出力しました] と(英語で)表示されるので、[OK] を押す。</li>
+</ol>
+何のファイルかわからなくなってしまわないよう、必要なファイルには適切なファイル名をつけ、フォルダを利用して整理しておいてください。
+
+できた png ファイルを、ワード中に Drag &amp; Drop することで、図を貼りつけることができます。
+
+図をファイルに貼りつけた後に、図の大きさを調整します。
+ワードで図の右下にカーソルを合わせると、カーソルが<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/yajirushi.png"><img class="alignnone size-full wp-image-8214" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/yajirushi.png" alt="yajirushi" width="20" height="20" /></a>という形に変わります。
+そのまま Drag すれば、<strong>縦横比を保ったまま</strong>図の大きさを変えることができます。
+
+<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/snap.png"><img class="alignnone size-medium wp-image-8213" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/snap-300x202.png" alt="snap" width="300" height="202" /></a>
+
+<hr style="width: 650px;" />
+
+<h3>分子模型をファイルとして保存する</h3>
+図を png ファイルとして出力する方法はすでに説明しましたが、png ファイルのような「画像ファイル」は、あとから視点の変更などが行えません。下記の方法で、分子模型全体の情報を保存してください。
+<ol>
+ 	<li>[File]-[Save]を選択</li>
+ 	<li>分子の種類がわかるような、適切なファイル名をつけフォルダーに保存します。
+(例: ethanol.vesta など)
+<strong>日本語のファイル名やフォルダ名を使うと、うまくセーブできない場合があります。</strong></li>
+</ol>
+この方法だと、視点の位置や原子の表示方法なども保存されます。
+
+重ねて注意しますが、何のファイルかわからなくなってしまわないよう、適切なファイル名を付け、さらにノートにファイル名を記録しておくとよいでしょう。
+
+<hr />
+
+<h3>ファイルの種類</h3>
+ここまでで、いくつかのファイル形式が登場しました。このあと登場するものと合わせ、整理しておきます。Windowsの場合、<strong>ファイルの種類は「拡張子」(かくちょうし)で識別します。</strong>拡張子とは、ファイル名の末尾の. (ピリオド)に続く部分です。
+
+（Windows PC用）
+拡張子が表示されていない場合は、フォルダー上の[表示]-[ファイル名拡張子]にチェックを入れると拡張子が表示されるようになります。
+
+(Mac PC用)
+拡張子が表示されていない場合は、[Finder]の[環境設定]を開き、[詳細]を選択し[すべてのファイル名拡張子を表示]に入れると拡張子が表示されるようになります。
+<ul>
+ 	<li>xyz ファイル
+原子の座標が書かれている。
+コンピュータの世界で標準となっている「テキストファイル」で書かれています。
+編集(書き換え)が可能です。(後述)</li>
+ 	<li>png ファイル
+画像ファイル。標準の画像ファイル形式のひとつです。他の画像ファイル形式には gif や jpeg 形式があります。
+「ワード」などに貼り付けることができます。写真のようなもので、あとから視点の変更などは行えません。</li>
+ 	<li>vesta ファイル
+原子の座標に加え、視点の位置や、表示方法、原子直径などの情報が書かれています。
+あとから視点の変更などが行えますが、「VESTA」以外のソフトウェアでは使えません。
+(VESTA がないと、開くことができません)</li>
+ 	<li>xlsx ファイル(xls ファイル)
+「エクセル」のワークシートファイルです。
+エクセルの「表」の内容が記録されています。「エクセル」が無いと開くことができません。</li>
+ 	<li>docx ファイル(doc ファイル)
+「ワード」の文書ファイルです。
+同じく「ワード」が無いと開くことができません。
+レポートは多くの場合、このファイル形式で書くことになるでしょう。</li>
+</ul>
+
+<hr />
+
+<a title="受講生用ページ" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3194">受講生用のページ</a>に他いくつかの分子のデータが用意してあります。
+フラーレンやダイオキシンなどの分子が、実際にはどんな姿をしているのか確かめてください。
+
+[help]
+<a id="Q3"></a>
+<h4><strong>問題 3</strong> (色々な分子)</h4>
+<a title="受講生用ページ" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3194">受講生用のページ</a>(またはリンク先等)にある他の分子(フラーレン、ダイオキシンなど)のうち、
+興味のあるものを一つ以上選び、図示せよ。
+表示形式はどれでもよいが、レポート中に明記せよ。
+(例: 「図2 は、Ball&amp;Stickモデルで描いたアデニンである。」)
+
