@@ -33,28 +33,27 @@
 |:---:|
 |van der Waals半径で描いたアデニン|
 
-表示される原子の半径(Radius)や色は、必要があれば画面下の[Radius and color]で原子種を選択して設定することができます。(<strong>半径はうかつに変更してはいけない。</strong>色は左からRed、Green、Blue(光の 3 原色)を 256 段階で表している。)
+表示される原子の半径(Radius)や色は、必要があれば画面下の[Radius and color]で原子種を選択して設定することができます。  
+(**半径はうかつに変更しないよう注意。** 色は左からRed、Green、Blue(光の 3 原色)を 256 段階で表している。)
 
-ついでですが、原子は多角形の回転体として表示されているので、[Resolution]の値(Stacks, Slices 両方)を(60くらいに)大きくすると、つるつるの球として表示されます。(やりすぎると表示に時間がかかります)
+ついでですが、原子は多角形の回転体として表示されているので、[Resolution] の値(Stacks, Slices 両方)を(60くらいに)大きくすると、つるつるの球として表示されます。(やりすぎると表示に時間がかかります)
 
-以上の変更は[OK]を押さないとキャンセルされてしまいます。
-また<strong>[Space-filling]が選ばれているときだけ有効です。注意。</strong></li>
-</ol>
-</li>
-</ul>
-[caption id="attachment_195894" align="aligncenter" width="400"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/miss.png"><img class="wp-image-195894" src="/img/miss-300x237.png" alt="間違いの例" width="400" height="317" /></a> [注意] 上の例では表示が van der Waals 半径になっていません。左メニューで [Space-filling] が選ばれていないのが原因です。[/caption]
-<ul>
- 	<li>その他の表示法に興味がある場合は<a title="VESTAのその他の項目" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=6536">別ページ</a>を参照してください。</li>
-</ul>
-[help]
-<h4><strong>問題 2</strong> (エタノールの図示)</h4>
-<strong>ファンデルワールス半径</strong>を使って描いたエタノールの図をレポート中に示してください。
-(上記の方法で vesta 上に分子を表示し、下記の方法で 画像ファイル(pngファイル)を作製し、そのファイルをワードに 貼りつけます。)
-[/help]
+以上の変更は[OK]を押さないとキャンセルされてしまいます。  
+半径の値は **[Space-filling] が選ばれているときだけ有効です。** 注意。
 
-<hr style="width: 650px;" />
+<img class="wp-image-195894" src="/img/miss.png" alt="間違いの例" width="400" height="317" />
 
-<h3>分子模型の図をファイルとして出力する</h3>
+上の例では表示が van der Waals 半径になっていません。左メニューで [Space-filling] が選ばれていないのが原因です。
+
+その他の表示法に興味がある場合は<a title="VESTAのその他の項目" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=6536">別ページ</a>を参照してください。
+
+>[!important]
+> ### 問題 2 (エタノールの図示)
+> **ファンデルワールス半径** を使って描いたエタノールの図をレポート中に示してください。  
+> (上記の方法で vesta 上に分子を表示し、下記の方法で 画像ファイル(pngファイル)を作製し、そのファイルをワードに 貼りつけます。)
+
+
+## 分子模型の図をファイルとして出力する
 以下の操作で、分子の図を画像ファイル(png ファイル)に出力することができます。ファイル名を変えてセーブすれば、何枚でも図を保存しておくことができます。
 
 <strong>画面に表示されている図がそのまま出力</strong>されますので、分子がはみ出していたり、分子が小さすぎて余白が大きくならないように、大きさを調整しておきましょう。
