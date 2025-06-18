@@ -9,6 +9,7 @@
   - [VESTAのインストール](1st/install.md)
   - [VESTAの使い方](1st/howtouse.md)
   - [分子を描く](1st/molecule.md)
+    - [いろいろな分子](1st/samples.md)  
   - [分子の座標ファイルを作成する](1st/xyzfile.md)
 - 2週目 (結晶の単位格子を描く)
 - 3週目 (食塩や鉄の結晶の構造を描く)
