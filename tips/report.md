@@ -10,7 +10,7 @@
 (下記をダウンロードし、書き換えてレポートを作ってください。)  
 ファイル名には、学籍番号を入れてください。  
 
-レポートのテンプレート(雛形) <a href="https://lms.ealps.shinshu-u.ac.jp/2023/s/mod/resource/view.php?id=4189">report-23S3XXXX.docx</a>
+レポートのテンプレート(雛形) <a href="/files/report-25S3XXXX.docx">report-25S3XXXX.docx</a>
 
   
 - 答えを書くだけでなく、説明の文章を入れること。
