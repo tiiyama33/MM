@@ -5,31 +5,34 @@
 
 分子の表示方法は左メニューの[Style]で切り替えることができます。
 初期設定では分子が Ball &amp; Stick モデルで表示されています。van der Waals半径 での表示に切り替えてみましょう。
-- [Ball and Stick] 球と棒のモデル
+- [Ball and Stick] 球と棒のモデル  
+初期設定です。原子を球で、化学結合を棒でつないで表現しています。  
+球の直径は、実際の原子の大きさよりもかなり小さい値が設定されています。  
 
-|<img class="size-medium wp-image-8136" src="/img/Adenine-bs2.png" alt="Ball&amp;Stickモデルで描いたアデニン" width="300" height="228" />|
+|<img class="size-medium wp-image-8136" src="/img/Adenine-bs2.png" alt="Ball&amp;Stickモデルで描いたアデニン" width="300" />|
 |:---:|
-|Ball&amp;Stickモデルで描いたアデニン|
+|Ball & Stickモデルで描いたアデニン|
 
-初期設定です。球の直径は、実際の原子の大きさよりもかなり小さい値が設定されています。</li>
- 	<li><strong>[Space-filling] 空間充填モデル</strong>
+- [Space-filling] 空間充填モデル  
 物理的に意味のある大きさで原子を描きます。
 表示される原子の直径は次の方法で切り替えます。
-<ol>
- 	<li>[Properties...]ボタン(左メニュー[Style]の下のほう)を押す。</li>
- 	<li>[Atoms]タグを選択。</li>
- 	<li>[Atom style]-[Show as balls]でRadii Type(直径のタイプ)を切り替える
-<ul>
- 	<li>[Atomic] 原子半径
-同種原子が作る化学結合距離の半分の値が半径として設定されています。</li>
- 	<li>[Ionic] イオン半径
+
+ 	1. [Properties...]ボタン(左メニュー[Style]の下のほう)を押す。
+ 	1. [Atoms]タグを選択。
+ 	1. [Atom style]-[Show as balls]でRadii Type(直径のタイプ)を切り替える
+
+  - 半径の種類
+    - [Atomic] 原子半径  
+同種原子が作る化学結合距離の半分の値が半径として設定されています。
+  	 - [Ionic] イオン半径  
 イオンとなったときの半径が設定されています。(C や O は通常イオン化していないので、エタノールではあまり意味がない)</li>
- 	<li><strong><strong>[van der Waals] ファンデルワールス半径</strong></strong>
+ 	  - [van der Waals] ファンデルワールス半径  
+原子は、原子核とその周辺にぼんやりと広がった電子雲からできており、大きさがいくつとはっきり言うことはできません。ファン・デル・ワールスは原子をを硬い球(剛体球)として取り扱うことを提唱し、液体の密度などから原子ごとにその大きさ(ファンデルワールス半径)が定められました。[van der Waals]を選択すると、このファンデルワールス半径を使って分子が描かれます。エタノールではファンデルワールス半径を使った描画が、実際の分子の大きさのイメージに最も近いでしょう。
 
-[caption id="attachment_8138" align="alignright" width="300"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-vw2.png"><img class="size-medium wp-image-8138" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Adenine-vw2-300x228.png" alt="van der Waals半径で描いたアデニン" width="300" height="228" /></a> van der Waals半径で描いたアデニン[/caption]
+|<img class="size-medium wp-image-8138" src="/img/Adenine-vw2.png" alt="van der Waals半径で描いたアデニン" width="300" />|
+|:---:|
+|van der Waals半径で描いたアデニン|
 
-原子は、原子核とその周辺にぼんやりと広がった電子雲からできており、大きさがいくつとはっきり言うことはできません。ファン・デル・ワールスは原子をを硬い球(剛体球)として取り扱うことを提唱し、液体の密度などから原子ごとにその大きさ(ファンデルワールス半径)が定められました。[van der Waals]を選択すると、このファンデルワールス半径を使って分子が描かれます。エタノールではファンデルワールス半径を使った描画が、実際の分子の大きさのイメージに最も近いでしょう。</li>
-</ul>
 表示される原子の半径(Radius)や色は、必要があれば画面下の[Radius and color]で原子種を選択して設定することができます。(<strong>半径はうかつに変更してはいけない。</strong>色は左からRed、Green、Blue(光の 3 原色)を 256 段階で表している。)
 
 ついでですが、原子は多角形の回転体として表示されているので、[Resolution]の値(Stacks, Slices 両方)を(60くらいに)大きくすると、つるつるの球として表示されます。(やりすぎると表示に時間がかかります)
@@ -39,7 +42,7 @@
 </ol>
 </li>
 </ul>
-[caption id="attachment_195894" align="aligncenter" width="400"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/miss.png"><img class="wp-image-195894" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/miss-300x237.png" alt="間違いの例" width="400" height="317" /></a> [注意] 上の例では表示が van der Waals 半径になっていません。左メニューで [Space-filling] が選ばれていないのが原因です。[/caption]
+[caption id="attachment_195894" align="aligncenter" width="400"]<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2021/06/miss.png"><img class="wp-image-195894" src="/img/miss-300x237.png" alt="間違いの例" width="400" height="317" /></a> [注意] 上の例では表示が van der Waals 半径になっていません。左メニューで [Space-filling] が選ばれていないのが原因です。[/caption]
 <ul>
  	<li>その他の表示法に興味がある場合は<a title="VESTAのその他の項目" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=6536">別ページ</a>を参照してください。</li>
 </ul>
