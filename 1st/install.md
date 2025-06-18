@@ -33,5 +33,5 @@ windows 11 の場合、VESTA.zip をダブルクリックすると、下記の�
 ダブルクリックして起動しましょう。  
 [WindowsによってPCが保護されました] と表示された場合には [詳細情報] を押して [実行] してください。(初回のみ)  
 画面下部にでてきたアイコンを右クリックして、[スタートにピン留めする]を選べば、スタートメニューから vesta が起動できるようになります。
-<img class="wp-image-194423 size-full" src="/img/final.png" alt="vesta.exe" width="450" height="357" />
-<img class="wp-image-194424 size-full" src="/img/menu.png" alt="スタートメニュー" width="272" height="294" />
+<img class="wp-image-194423 size-full" src="/img/final.png" alt="vesta.exe" width="450" />
+<img class="wp-image-194424 size-full" src="/img/final-2.png" alt="スタートメニュー" width="450" />
