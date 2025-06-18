@@ -152,3 +152,5 @@ ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
 >C-C-H 結合角 180°、C-C 結合距離 120 pm、C-H 結合距離 106 pm</li>
 >
 >1 pm (ピコメートル) = 0.01 Å
+
+[前＜](molecule.md) [目次](/README.md) [＞次](/2nd/solid.md)
