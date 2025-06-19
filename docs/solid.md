@@ -127,7 +127,7 @@ $マークをうまく使えば、座標部分は 単純なコピー & ペース
 上記の結晶は例えば<img class="alignnone size-full wp-image-3319" title="cell2" src="/img/cell2.png" alt="" width="101" height="101" />の繰り返しで表すことができます。  
 <img class="alignnone size-full wp-image-3320" title="cell3" src="/img/cell3.png" alt="" width="101" height="101" />の繰り返しをすると、原子が重複してしまいます。
 
-<a title="問題 8 のヒント" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3323">もう少し詳しい説明</a>(←クリック！)
+<a title="問題 8 のヒント" href="repeatunit.md">もう少し詳しい説明</a>(←クリック！)
 
 <a name="q8"></a>
 >[!important]
@@ -136,6 +136,6 @@ $マークをうまく使えば、座標部分は 単純なコピー & ペース
 >(全体像が立方体になるように繰り返す)
 >- また、問題 6, 7 で書いた単位格子から一つ(鉄以外)を選び、同様に広い範囲の結晶構造を図示せよ。
 
-よくわからない人は<a title="問題 8 のヒント" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3323">もう少し詳しい説明</a>を参照しながら進めてください。
+よくわからない人は<a title="問題 8 のヒント" href="repeatunit.md">もう少し詳しい説明</a>を参照しながら進めてください。
 
 (注 問題 6 で答えた「最隣接原子の数」は、繰り返しの分をきちんと考えましたか？)
