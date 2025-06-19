@@ -6,7 +6,7 @@
 前の問題で、次のように単位格子を図示しました。  
 <img class="alignnone size-full wp-image-3325" title="rep0" src="/img//rep0.png" alt="" width="160" height="160" />  
 上の図には原子が 9 個書かれていますが、実際に 1 つの単位格子に含まれる原子数は 2 個なので、9 個の原子のうち 2 個を選び出します。  
-<img class="alignnone size-full wp-image-3326" title="rep1" src="/img//rep1.png" alt="" width="160" height="160" /><a href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3340">この時点のエクセルシート</a>  
+<img class="alignnone size-full wp-image-3326" title="rep1" src="/img//rep1.png" alt="" width="160" height="160" /><a href="Q8-2.md">この時点のエクセルシート</a>  
 
 >選ぶ原子 2 個はどれでもよいわけではありません。
 >一番上の図に含まれる 9 個の原子のうち、各頂点にある 8 個の原子は、高校の時にそれぞれ 1/8 個と数えたことからもわかるように、「等価」です。この 8 個の中からひとつめの原子を選びます。  
