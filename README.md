@@ -11,7 +11,7 @@
 - [授業の目標](docs/aim.md)
 - [VESTAのインストール](docs/install.md)
 - [VESTAの使い方(Q1)](docs/howtouse.md)
-- [分子を描く(Q2,3)](docs/molecule.md)
+- [分子を描く(Q2,Q3)](docs/molecule.md)
   - [いろいろな分子](docs/samples.md)  
 - [分子の座標ファイルを作成する](docs/xyzfile.md)
 - [固体の構造を描く](docs/solid.md)
