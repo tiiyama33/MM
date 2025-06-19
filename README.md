@@ -26,4 +26,5 @@
 - Tips
   - [原子間にひく線の設定](tips/bond.md)
   - [100℃で存在する氷](tips/hpice.md)
+  - [よく使うエクセルの関数](tips/excelfunc.md)
 - [レポートについて](tips/report.md)
