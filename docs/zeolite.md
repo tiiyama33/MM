@@ -117,7 +117,9 @@ s.u.の値はそのまま(0)でかまいません。
 
 10. 原子座標の入力に入ります。
 タブから[Structure parameters]を選びます。
+
 <a href="/img/ze3.png"><img class="alignnone size-full wp-image-3599" title="ze3" src="/img/ze3.png" alt="" width="490" height="446" /></a>
+
 [New]ボタンを押して、原子を追加します。
 [Symbol...]ボタンを押して、最初の原子の元素を指定します。
 [Label] には[Atom]に書いてある記号(例えばNA1)を入力します。
