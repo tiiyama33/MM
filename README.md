@@ -20,6 +20,7 @@
     - [Q8のヒント(3)](docs/Q8-3.md)
     - [Q8のヒント(4)](docs/Q8-4.md)
 - [発展問題](docs/advanced.md)
+  - [立方体以外の単位格子の繰り返しの考え方](docs/iceunit.md)
 - Tips
   - [原子間にひく線の設定](tips/bond.md)
 - [レポートについて](tips/report.md)
