@@ -104,15 +104,18 @@ Setting: (なし)</td>
 
 <img class="alignnone size-full wp-image-3598" title="ze2" src="/img/ze2.png" alt="" width="490" height="446" />
 
-[Symmetry](対称性)の[Space group]に空間群の番号を入力します。
-(モルデナイトの場合、63)
-Crystal systemなどが自動で入力されます。
-[Setting]の指示がある場合、入力します。(それ以外の場合 1 のままでよい)
-(これらの項目を、原子座標を入力したあとに変更する際は、[Update structure parameters to keep 3D geometry]の項目を[Keep structure parameters unchanged]に変えてください。)</li>
- 	<li>[Lattice parameters]に、単位格子の辺の長さと角度を入力します。
-(対称性によって定まる部分は、すでに入力されています。入力できない場合は、[Space group]の入力が間違っていると思われます。)
-s.u.の値はそのまま(0)でかまいません。</li>
- 	<li>原子座標の入力に入ります。
+[Symmetry] (対称性) 中央のテーブル [Space group] から空間群の番号を選択します。  
+(モルデナイトの場合、63)  
+Crystal systemなどが自動で入力されます。  
+[Setting]の指示がある場合、入力します。(それ以外の場合 1 のままでよい)  
+
+> これらの項目を、原子座標を入力したあとに変更する際は、[Update structure parameters to keep 3D geometry]の項目を[Keep structure parameters unchanged]に変えてから入力する必要があります。
+
+9. [Lattice parameters]に、単位格子の辺の長さと角度を入力します。  
+(対称性によって定まる部分は、すでに入力されています。入力できない場合は、[Space group]の入力が間違っていると思われます。)  
+s.u.の値はそのまま(0)でかまいません。
+
+10. 原子座標の入力に入ります。
 タブから[Structure parameters]を選びます。
 <a href="/img/ze3.png"><img class="alignnone size-full wp-image-3599" title="ze3" src="/img/ze3.png" alt="" width="490" height="446" /></a>
 [New]ボタンを押して、原子を追加します。
