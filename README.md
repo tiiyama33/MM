@@ -19,8 +19,8 @@
     - [Q8のヒント(2)](docs/Q8-2.md)
     - [Q8のヒント(3)](docs/Q8-3.md)
     - [Q8のヒント(4)](docs/Q8-4.md)
-- [発展問題](docs/advanced.md)
-  - [立方体以外の単位格子の繰り返しの考え方(Q9)](docs/iceunit.md)
+- [発展問題](docs/advanced.md) (Q9~14)
+  - [立方体以外の単位格子の繰り返しの考え方](docs/iceunit.md) (Q9)
 - Tips
   - [原子間にひく線の設定](tips/bond.md)
   - [100℃で存在する氷](tips/hpice.md)
