@@ -97,10 +97,13 @@ Setting: (なし)</td>
 
 <img class="alignnone size-full wp-image-3597" title="ze1" src="/img/ze1.png" alt="" width="490" height="446" /></a>
 
-(再びこの入力画面を呼び出すには[Edit]-[Edit Data]-[Phase...]を選択します。)</li>
- 	<li>[Title](タイトル)に[物質名]を入力します。([New structure]と書いてあるところをクリックすると入力可能になる)</li>
- 	<li>タブから[Unit cell](単位格子)を選びます。
+(再びこの入力画面を呼び出すには[Edit]-[Edit Data]-[Phase...]を選択します。)
+
+7. [Title] (タイトル) に[物質名]を入力します。([New structure]と書いてあるところをクリックすると入力可能になる)
+8. タブから[Unit cell] (単位格子) を選びます。
+
 <img class="alignnone size-full wp-image-3598" title="ze2" src="/img/ze2.png" alt="" width="490" height="446" />
+
 [Symmetry](対称性)の[Space group]に空間群の番号を入力します。
 (モルデナイトの場合、63)
 Crystal systemなどが自動で入力されます。
