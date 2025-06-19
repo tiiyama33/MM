@@ -1,8 +1,8 @@
 # 立方体以外の単位格子の繰り返しの考え方
-問題 9 (氷)
-<ol type="i">
-<li>下図は氷(Ice I<sub>h</sub>)の単位格子である。氷の構造を図示し、その特徴について述べよ。酸素原子のみを示せばよい。(水素原子は示さなくてよい)</li>
-</ol>
+>[!important]
+>### 問題 9 (氷)
+>下図は氷(Ice I<sub>h</sub>)の単位格子である。氷の構造を図示し、その特徴について述べよ。
+>酸素原子のみを示せばよい。(水素原子は示さなくてよい)
 
 <img class="size-full wp-image-3367 " title="氷(Ih)の単位格子" src="/img/ice-s.png" alt="" height="260" /><img class="size-full wp-image-3368" title="横から見たところ(数字は長さの比)" src="/img/ice-ss.png" alt="" height="260" /><img class="size-full wp-image-3375" title="上から見たところ(数字は長さの比)" src="/img/ice-st.png" alt=""  height="240" />
 
