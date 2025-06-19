@@ -157,4 +157,4 @@ s.u.の値(0)、Bの値(1)はそのままでかまいません。
    
 入力途中は、こまめにセーブすることをお勧めします。
 
-[前＜](advanced.md) [目次](/README.md) 
+[前＜](advanced.md) [目次](/README.md) [＞次](report.md)
