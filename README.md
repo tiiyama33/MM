@@ -8,6 +8,7 @@
 
 情報科学演習、二村・飯山担当分では 4回にわたって、コンピュータ上での「分子模型」の描画 を扱います。
 
+## 目次
 - [授業の目標](docs/aim.md)
 - [VESTAのインストール](docs/install.md)
 - [VESTAの使い方](docs/howtouse.md) (Q1)
