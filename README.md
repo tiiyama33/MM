@@ -23,6 +23,7 @@
 - [発展問題](docs/advanced.md) (Q9~14)
   - [立方体以外の単位格子の繰り返しの考え方](docs/iceunit.md) (Q9)
   - [クラスターを作る](docs/cluster.md) (Q13)
+  - [空間群を利用して、さらに複雑な構造を描く](docs/zeolite.md) (Q14)
 - Tips
   - [原子間にひく線の設定](tips/bond.md)
   - [100℃で存在する氷](tips/hpice.md)
