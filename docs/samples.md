@@ -57,3 +57,5 @@ pH 指示薬は、pH によって構造が変化したり、水素イオンと�
 Chrome上で[安全でないファイルをブロック]と表示されるが、[保存]。mol形式ファイルをVESTAで開く  
 <sup>3</sup> winmoster ( http://winmostar.com/ )同梱  
 他はwinmosterとMOPAC7(分子軌道計算プログラム)によって飯山が計算
+
+[[問題3に戻る](https://github.com/tiiyama33/MM/blob/main/docs/molecule.md#%E5%95%8F%E9%A1%8C3%E8%89%B2%E3%80%85%E3%81%AA%E5%88%86%E5%AD%90)]
