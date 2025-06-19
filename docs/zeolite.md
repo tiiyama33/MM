@@ -26,17 +26,17 @@
 <span style="font-size: small;"><span class="Apple-style-span" style="line-height: 20px;"> </span></span>
 
 1. 現在までに構造が明らかとなったゼオライトの構造データはインターネットで公開されています。  
-下記ページを開いてください。
-http://www.iza-structure.org/databases/
-**注意！</strong> ページ内の[Edit Data]ボタンを押さないでください。データベースの元データを消してしまうおそれがあります。**
-
- 	<li>ページ上部のタグから<del>[Powder Patterns] </del>[All Codes]を選びます。</li>
- 	<li>ゼオライトはアルファベット3文字の構造コードで分類されています。
-いずれかひとつの構造コードをクリックします。(上の構造では、MORを選択)</li>
- 	<li>画面<del>下部</del>上部[Powder Pattern]をクリックします。
-(構造コードが同じ複数の物質が存在している場合には、そのリストが現れます。その場合にはいずれかひとつの物質名(Material Name)をクリックします。)</li>
- 	<li>切り替わった画面の下部の[Crystal Data](結晶データ)と書いてある部分が、結晶中の原子位置の情報です。
+下記ページを開いてください。  
+http://www.iza-structure.org/databases/  
+**注意！</strong> ページ内の[Edit Data]ボタンを押さないでください。データベースの元データを消してしまうおそれがあります。**  
+2. ページ上部のタグから [All Codes] を選びます。
+3. ゼオライトはアルファベット3文字の構造コードで分類されています。  
+いずれかひとつの構造コードをクリックします。(上の構造では、MORを選択)
+4. 画面上部[XPD]をクリックします。  
+(構造コードが同じ複数の物質が存在している場合には、そのリストが現れます。その場合にはいずれかひとつの物質名(Material Name)をクリックします。)
+5. 切り替わった画面下部の [Crystal Data] (結晶データ) と書いてある部分が、結晶中の原子位置の情報です。
 必要なデータは、以下の通りです。
+
 <table border="1">
 <tbody>
 <tr>
@@ -90,9 +90,13 @@ Setting: (なし)</td>
 </tr>
 </tbody>
 </table>
-</li>
- 	<li>VESTAのメニューから[File]-[New Structure...]を選びます。
-<a href="/img/ze1.png"><img class="alignnone size-full wp-image-3597" title="ze1" src="/img/ze1.png" alt="" width="490" height="446" /></a>
+
+以上のデータをVESTAに入力していきます。
+
+6. VESTAのメニューから[File]-[New Structure...]を選びます。  
+
+<img class="alignnone size-full wp-image-3597" title="ze1" src="/img/ze1.png" alt="" width="490" height="446" /></a>
+
 (再びこの入力画面を呼び出すには[Edit]-[Edit Data]-[Phase...]を選択します。)</li>
  	<li>[Title](タイトル)に[物質名]を入力します。([New structure]と書いてあるところをクリックすると入力可能になる)</li>
  	<li>タブから[Unit cell](単位格子)を選びます。
