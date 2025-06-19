@@ -23,3 +23,5 @@
 
 参考
 - Water structure and science [http://www.lsbu.ac.uk/water/phase.html](https://water.lsbu.ac.uk/water/water_phase_diagram.html)
+
+ブラウザの[戻る]ボタンで前のページに戻ってください。
