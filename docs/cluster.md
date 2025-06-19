@@ -74,9 +74,9 @@ $`\sqrt{(x-11.468)^2+(y-11.468)^2+(z-11.468)^2}`$
 >エクセルでは、2 乗の計算は ˆ2、ルートの計算は ˆ(1/2) または =SQRT() で[行うことができます](/tips/excelfunc.md)。
 
 
-<!-- wp:image {"id":194513,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2019/07/distance.png" alt="" class="wp-image-194513"/><figcaption>L列に中心からの距離を入れる</figcaption></figure>
-<!-- /wp:image -->
+|<img src="/img/distance.png" alt="" >|
+|:---:|
+|L列に中心からの距離を入れる|
 
 <!-- wp:heading -->
 <h2>距離の小さい順に並べなおす(ソート)</h2>
