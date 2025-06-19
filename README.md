@@ -23,4 +23,5 @@
   - [立方体以外の単位格子の繰り返しの考え方](docs/iceunit.md)
 - Tips
   - [原子間にひく線の設定](tips/bond.md)
+  - [100℃で存在する氷](tips/hpice.md)
 - [レポートについて](tips/report.md)
