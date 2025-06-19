@@ -5,26 +5,26 @@
 以下の問題は順不同で(好きな順序で)回答してください。
 
 
-## 問題 9 (氷) 難易度 ⭐⭐⭐
+## 問題 9 氷 難易度 ⭐⭐⭐
 下図は氷(Ice I<sub>h</sub>)の単位格子である。氷の構造をいくつかの方向から図示せよ。酸素原子のみを示せばよい。(水素原子は示さなくてよい)
 
 <strong>氷の結晶は非常に美しい(と思う)ので、ぜひこの問題に挑戦してみてください。</strong>
 
-<img class="size-full wp-image-3367 " title="氷(Ih)の単位格子" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ice-s.png" alt="" width="478" height="350" />
+<img class="size-full wp-image-3367 " title="氷(Ih)の単位格子" src="/img/ice-s.png" alt="" width="478" height="350" />
 
-<img class="size-full wp-image-3368" title="横から見たところ(数字は長さの比)" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ice-ss.png" alt="" width="304" height="350" />
+<img class="size-full wp-image-3368" title="横から見たところ(数字は長さの比)" src="/img/ice-ss.png" alt="" width="304" height="350" />
 
-<img class="size-full wp-image-3375" title="上から見たところ(数字は長さの比)" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ice-st.png" alt="" width="439" height="275" />
+<img class="size-full wp-image-3375" title="上から見たところ(数字は長さの比)" src="/img/ice-st.png" alt="" width="439" height="275" />
 
-<span style="border-collapse: collapse;">(赤丸は酸素原子の位置)
-</span><span style="border-collapse: collapse;">単位格子に含まれる水分子の数 4</span>
-<div style="text-align: left;"><span style="font-size: 16px; line-height: 24px;">単位格子だけを示すのではなく、構造の特徴がわかる大きさ(原子 100 個程度以上)で描いてください。</span></div>
-[Ball-and-stick]モデルで、隣接分子の間に線を引くと構造の特徴がわかりやすいでしょう。
-(<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">線の引き方</a>)
+(赤丸は酸素原子の位置) 単位格子に含まれる水分子の数 4
 
-ヒント これまでの問題と異なり、単位格子が立方体ではありませんから、単位格子の繰り返しの計算にはベクトルの考え方が必要です。
-(ヒント1→<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ice-excel.png">ワークシートの例</a>)
-(ヒント2→<a title="立方体以外の単位格子の繰り返しの考え方" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3380">立方体以外の単位格子での繰り返しの考え方</a>)<a name="q9hint"></a>
+単位格子だけを示すのではなく、構造の特徴がわかる大きさ(原子 100 個程度以上)で描いてください。  
+[Ball-and-stick]モデルで、隣接分子の間に線を引くと構造の特徴がわかりやすいでしょう。  
+(<a title="原子間にひく線の設定" href="/tips/bond.md">線の引き方</a>)
+
+ヒント これまでの問題と異なり、単位格子が立方体ではありませんから、単位格子の繰り返しの計算にはベクトルの考え方が必要です。  
+(ヒント1→<a href="/img/ice-excel.png">ワークシートの例</a>)  
+(ヒント2→<a title="立方体以外の単位格子の繰り返しの考え方" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3380">立方体以外の単位格子での繰り返しの考え方</a>)<a name="q9hint"></a>  
 
 できあがったら、分子が等距離(約 2.74 Å ※)に 4 つの最隣接分子を持つことを確かめてください。距離が違っていたり、最隣接分子が 4 つになっていないときは、計算が間違っています。
 (※単位格子の一辺として小数点以下 2 桁までの値を使っているので、小数点以下 3 桁以上の値は ずれます。)
@@ -40,7 +40,7 @@
 構造をいくつかの方向から図示し、その特徴(隣接原子数や角度など)について述べよ。
 <blockquote>
 
-[caption id="attachment_3377" align="alignnone" width="253"]<img class="size-full wp-image-3377" title="dia" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/dia.png" alt="" width="253" height="216" /> ダイヤモンドの単位格子 (「分子・固体の結合と構造」、David Pettifor著、青木正人、西谷滋人訳、技報堂出版)[/caption]</blockquote>
+[caption id="attachment_3377" align="alignnone" width="253"]<img class="size-full wp-image-3377" title="dia" src="/img/dia.png" alt="" width="253" height="216" /> ダイヤモンドの単位格子 (「分子・固体の結合と構造」、David Pettifor著、青木正人、西谷滋人訳、技報堂出版)[/caption]</blockquote>
 単位格子だけを示すのではなく、構造の特徴がわかる大きさ(原子 100 個程度以上)で描いてください。
 隣接原子間に線を引くと構造がわかりやすいでしょう。(<a title="原子間にひく線の設定" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=3246">線の引き方</a>)
 
