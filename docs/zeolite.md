@@ -1,32 +1,35 @@
 # 空間群を利用して、さらに複雑な構造を描く (Q14のヒント)
 
-
+>[!important]
+>### 問題 14 ゼオライト
+>ゼオライトの結晶構造をひとつ選び、構造を図示してその特徴について述べよ。
+>(物質名を示すこと。)
 
 最後に、VESTAの本来の機能を利用して、より複雑な構造を描いてみましょう。
-<div>
 
 ここでは結晶物質のひとつである、ゼオライトを題材とします。
-<blockquote>ゼオライトとは
 
-多孔質アルミノケイ酸塩の総称。
-四面体構造を持つ SiO<sub>4 </sub>と AlO<sub>4 </sub>が組み合わされた基本構造を持つ結晶であり、<strong>0.4~0.8 nm 程度の孔(細孔)</strong>を有している。
-天然にも存在するが、石油精製や触媒担体として利用するために、様々な構造をもった物質が合成されている。
-沸石とも呼ばれるが、実験で使う沸騰石とは別のもの。</blockquote>
-<div>
-<dl id="attachment_3436">
- 	<dt><img title="Mordenite" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/Mordenite.png" alt="" width="425" height="422" /></dt>
- 	<dd>ゼオライトの一種、モルデナイト(Mordenite)の結晶構造</dd>
-</dl>
-</div>
+>[!note]
+>ゼオライトとは
+>多孔質アルミノケイ酸塩の総称。
+>四面体構造を持つ SiO<sub>4 </sub>と AlO<sub>4 </sub>が組み合わされた基本構造を持つ結晶であり、<strong>0.4~0.8 nm 程度の孔(細孔)</strong>を有している。  
+>天然にも存在するが、石油精製や触媒担体として利用するために、様々な構造をもった物質が合成されている。  
+>沸石とも呼ばれるが、実験で使う沸騰石とは別のもの。  
+
+
+|<img title="Mordenite" src="/img/Mordenite.png" alt="" width="400" />|
+|:---:|
+|ゼオライトの一種、モルデナイト(Mordenite)の結晶構造|
+
 これまでエクセルを用いて結晶内の原子の位置を計算してきましたが、結晶の対称性を利用すると、より簡単に結晶内の原子の位置を表すことができます。
 
 <span style="font-size: small;"><span class="Apple-style-span" style="line-height: 20px;"> </span></span>
 
-</div>
-<ol>
- 	<li>現在までに構造が明らかとなったゼオライトの構造データはインターネットで公開されています。
-下記ページを開いてください。<a href="http://www.iza-structure.org/databases/" target="_blank" rel="noopener noreferrer">
-http://www.iza-structure.org/databases/</a><span style="color: #ff0000;"><strong>注意！</strong> ページ内の[Edit Data]ボタンを押さないでください。データベースの元データを消してしまうおそれがあります。</span></li>
+1. 現在までに構造が明らかとなったゼオライトの構造データはインターネットで公開されています。  
+下記ページを開いてください。
+http://www.iza-structure.org/databases/
+**注意！</strong> ページ内の[Edit Data]ボタンを押さないでください。データベースの元データを消してしまうおそれがあります。**
+
  	<li>ページ上部のタグから<del>[Powder Patterns] </del>[All Codes]を選びます。</li>
  	<li>ゼオライトはアルファベット3文字の構造コードで分類されています。
 いずれかひとつの構造コードをクリックします。(上の構造では、MORを選択)</li>
@@ -89,11 +92,11 @@ Setting: (なし)</td>
 </table>
 </li>
  	<li>VESTAのメニューから[File]-[New Structure...]を選びます。
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ze1.png"><img class="alignnone size-full wp-image-3597" title="ze1" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ze1.png" alt="" width="490" height="446" /></a>
+<a href="/img/ze1.png"><img class="alignnone size-full wp-image-3597" title="ze1" src="/img/ze1.png" alt="" width="490" height="446" /></a>
 (再びこの入力画面を呼び出すには[Edit]-[Edit Data]-[Phase...]を選択します。)</li>
  	<li>[Title](タイトル)に[物質名]を入力します。([New structure]と書いてあるところをクリックすると入力可能になる)</li>
  	<li>タブから[Unit cell](単位格子)を選びます。
-<img class="alignnone size-full wp-image-3598" title="ze2" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ze2.png" alt="" width="490" height="446" />
+<img class="alignnone size-full wp-image-3598" title="ze2" src="/img/ze2.png" alt="" width="490" height="446" />
 [Symmetry](対称性)の[Space group]に空間群の番号を入力します。
 (モルデナイトの場合、63)
 Crystal systemなどが自動で入力されます。
@@ -104,7 +107,7 @@ Crystal systemなどが自動で入力されます。
 s.u.の値はそのまま(0)でかまいません。</li>
  	<li>原子座標の入力に入ります。
 タブから[Structure parameters]を選びます。
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ze3.png"><img class="alignnone size-full wp-image-3599" title="ze3" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2011/07/ze3.png" alt="" width="490" height="446" /></a>
+<a href="/img/ze3.png"><img class="alignnone size-full wp-image-3599" title="ze3" src="/img/ze3.png" alt="" width="490" height="446" /></a>
 [New]ボタンを押して、原子を追加します。
 [Symbol...]ボタンを押して、最初の原子の元素を指定します。
 [Label] には[Atom]に書いてある記号(例えばNA1)を入力します。
