@@ -12,6 +12,9 @@
 - [分子の座標ファイルを作成する](docs/xyzfile.md)
 - [固体の構造を描く](docs/solid.md)
   - [単位格子を繰り返す](docs/repeatunit.md)
+    - [Q8のヒント(2)](docs/Q8-2.md)
+    - [Q8のヒント(3)](docs/Q8-3.md)
+    - [Q8のヒント(4)](docs/Q8-4.md)
 - Tips
   - [原子間にひく線の設定](tips/bond.md)
 - [レポートについて](tips/report.md)
