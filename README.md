@@ -28,4 +28,5 @@
   - [原子間にひく線の設定](tips/bond.md)
   - [100℃で存在する氷](tips/hpice.md)
   - [よく使うエクセルの関数](tips/excelfunc.md)
+  - [VESTAのその他の項目](tips/settings.md)
 - [レポートについて](tips/report.md)
