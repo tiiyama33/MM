@@ -50,7 +50,7 @@ D列 (*z*方向の平行移動値, 8進数の1桁目)
 
 >7 進数の場合は、8 のところ (2 箇所) を 7 に変えます。
 
-|<img src="/img/iron-repeat8.png" alt="" />|
+|<img src="/img/iron-repeat8.png" alt="" width=600/>|
 |:---:|
 |エクセルファイル|
 
@@ -74,22 +74,18 @@ $`\sqrt{(x-11.468)^2+(y-11.468)^2+(z-11.468)^2}`$
 >エクセルでは、2 乗の計算は ˆ2、ルートの計算は ˆ(1/2) または =SQRT() で[行うことができます](/tips/excelfunc.md)。
 
 
-|<img src="/img/distance.png" alt="" >|
+|<img src="/img/distance.png" alt="" width=600>|
 |:---:|
 |L列に中心からの距離を入れる|
 
-<!-- wp:heading -->
-<h2>距離の小さい順に並べなおす(ソート)</h2>
-<!-- /wp:heading -->
+## 距離の小さい順に並べなおす(ソート)
 
-<!-- wp:tadv/classic-paragraph -->
-ここでエクセルのソート機能を使って、行を距離の小さい順に並べます。
-下記のように、並びなおしたい部分(4行目より下全部)を選択した状態で、上部メニューから [データ]-[並び替え] を選びます。
-<!-- /wp:tadv/classic-paragraph -->
+ここでエクセルのソート機能を使って、行を距離の小さい順に並べます。  
+下記のように、並びなおしたい部分(4行目より下全部)を選択した状態で、上部メニューから [データ]-[並び替え] を選びます。  
 
-<!-- wp:image {"id":194515,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2019/07/before-sort.png" alt="" class="wp-image-194515"/><figcaption>並びなおしたい部分を選択</figcaption></figure>
-<!-- /wp:image -->
+|<img src="/img/before-sort.png" alt="" width=600/>|
+|:---:|
+|並びなおしたい部分を選択|
 
 <!-- wp:image {"id":194517,"width":576,"height":201,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large is-resized"><img src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2019/07/sort.png" alt="" class="wp-image-194517" width="576" height="201"/><figcaption>並び替え</figcaption></figure>
