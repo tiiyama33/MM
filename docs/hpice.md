@@ -14,7 +14,7 @@
 「<a href="http://ja.wikipedia.org/wiki/%E3%81%97%E3%82%93%E3%81%8B%E3%81%846500">しんかい6500</a>」では窓にかかる水圧はおおむね 650 atm 位と思われますが、厚さ 14 cm のアクリルが使われています。   
 ((窓の「厚み」がどのくらい必要かは、圧力だけでなく窓の「大きさ」に強く依存すると思われます。))
 
-|<img class="size-medium wp-image-6505" src="/img/IceVII" alt="Ice VII の構造" width="300" height="300" />|
+|<img class="size-medium wp-image-6505" src="/img/IceVII.png" alt="Ice VII の構造" width="300" height="300" />|
 |:---:|
 |Ice-VII の構造|
 
