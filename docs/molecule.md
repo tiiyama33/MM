@@ -45,7 +45,7 @@
 
 上の例では表示が van der Waals 半径になっていません。左メニューで [Space-filling] が選ばれていないのが原因です。
 
-その他の表示法に興味がある場合は<a title="VESTAのその他の項目" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=6536">別ページ</a>を参照してください。
+その他の表示法に興味がある場合は[別ページ](/tips/settings.md)を参照してください。
 
 >[!important]
 > ### 問題 2 (エタノールの図示)
