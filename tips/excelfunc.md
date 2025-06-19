@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td>sin</td>
-<td>三角関数、サイン
+<td>三角関数、サイン<br>
 (入力はラジアンで行わなくてはならない。度で入力したいときは度をラジアンに変換する関数 radians を使う)</td>
 <td>=sin(pi()/6)
 =sin(radians(30))</td>
@@ -73,11 +73,8 @@
 </tr>
 <tr>
 <td>asin</td>
-<td>逆三角関数、アークサイン
-( $`\sin^{-1} x `$ と書かれるが、サインの逆数 $`\displaystyle \frac{1}{\sin x}`$ではない。
-sin は $`\displaystyle \frac{\pi}{6}`$ (= 30°) を入れると $`\displaystyle \frac{1}{2}`$ を返す関数だが、
-sin<sup>−1</sup> はその反対で $`\displaystyle \frac{1}{2}`$ を入れると $`\displaystyle \frac{\pi}{6}`$ を返す関数。(<strong>逆関数</strong>という)
-エクセルでは asin 関数を使って計算できる。)</td>
+<td>逆三角関数、アークサイン (注3)
+</td>
 <td>=asin(0.5)</td>
 </tr>
 <tr>
@@ -131,3 +128,10 @@ sin<sup>−1</sup> はその反対で $`\displaystyle \frac{1}{2}`$ を入れる
 /(スラッシュ)の左側が分子、右側が分母と解釈され  
 1/2 となることが期待されますが、  
 エクセルではかっこをつけないと(2/1)+3と解釈され、 5 となります。
+
+## 注3 逆三角関数
+$$\sin^{-1} x $$ と書かれるが、サインの逆数 $$\displaystyle \frac{1}{\sin x}$$ではない。  
+sin は $$\displaystyle \frac{\pi}{6}$$ (= 30°) を入れると $$\displaystyle \frac{1}{2}$$ を返す関数だが、  
+sin<sup>−1</sup> はその反対で $$\displaystyle \frac{1}{2}$$ を入れると $$\displaystyle \frac{\pi}{6}$$ を返す関数。  
+(**逆関数**という)
+エクセルでは asin 関数を使って計算できる。
