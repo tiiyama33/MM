@@ -66,3 +66,4 @@
  	<li>「情報科学演習」webページ、飯山拓著、https://github.com/tiiyama33/MM 、2025.7.2</li>
 </ul>
 
+[前＜](zeolite.md) [目次](/README.md)  
