@@ -10,7 +10,7 @@ VESTAのメニューから [Edit]-[Bonds] を選択します。
 
 <img src="/img/ethbondmenu.png" width=600>
 
-上の画面が結合の設定です。
+上の画面が結合の設定です。  
 [Atom 1]と[Atom 2]で指定された原子の間で、  
 [Min]と[Max] の距離の間にあるペアに線を引きます。
 
