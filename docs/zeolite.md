@@ -106,10 +106,10 @@ Setting: (なし)</td>
 
 [Symmetry] (対称性) 中央のテーブル [Space group] から空間群の番号を選択します。  
 (モルデナイトの場合、63)  
-Crystal systemなどが自動で入力されます。  
+結晶系 (System) などが自動で入力されます。  
 [Setting]の指示がある場合、入力します。(それ以外の場合 1 のままでよい)  
 
-> これらの項目を、原子座標を入力したあとに変更する際は、[Update structure parameters to keep 3D geometry]の項目を[Keep structure parameters unchanged]に変えてから入力する必要があります。
+> ここまでの項目を、原子座標を入力したあとに変更する際は、[Update structure parameters to keep 3D geometry]の項目を[Keep structure parameters unchanged]に変えてから入力する必要があります。
 
 9. [Lattice parameters]に、単位格子の辺の長さと角度を入力します。  
 (対称性によって定まる部分は、すでに入力されています。入力できない場合は、[Space group]の入力が間違っていると思われます。)  
