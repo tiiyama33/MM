@@ -30,3 +30,4 @@
   - [100℃で存在する氷](tips/hpice.md)
   - [よく使うエクセルの関数](tips/excelfunc.md)
   - [VESTAのその他の項目](tips/settings.md)
+  - [ethanol.xyzの点線を消す](tips/ethbond.md)
