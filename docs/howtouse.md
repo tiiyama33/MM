@@ -21,8 +21,8 @@
 [ethanol.xyz](/files/ethanol.xyz)
   
 上記リンクを左クリックすると  
-ethanol.xyzの内容が表示されるので、上部の ダウンロードボタン(download raw file) <img src="/img/download.png">を押してください。  
-> ->ファイルが[ダウンロード]フォルダに保存される
+ethanol.xyzの内容が表示されるので、上部の ダウンロードボタン(download raw file) <img src="/img/download.png" width="30"> を押してください。  
+> ファイルは[ダウンロード]フォルダに保存されます(Chromeの場合)
 
 (今回は、デスクトップに情報科学演習というフォルダを作って保存してみます。)
 
