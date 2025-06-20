@@ -24,8 +24,6 @@
 ethanol.xyzの内容が表示されるので、上部の ダウンロードボタン(download raw file) <img src="/img/download.png" width="30"> を押してください。  
 > ファイルは[ダウンロード]フォルダに保存されます(Chromeの場合)
 
-(今回は、デスクトップに情報科学演習というフォルダを作って保存してみます。)
-
 保存したethanol.xyz ファイルを、VESTA(上の図中G)に Drag & Drop してみましょう。
 > または VESTAのメニュー(上の図中A)中の[File]-[Open...]からファイル ethanol.xyz を開いてもOK
 
