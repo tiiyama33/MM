@@ -79,7 +79,7 @@
 
 図をファイルに貼りつけた後に、図の大きさを調整します。  
 ワードで図の右下にカーソルを合わせると、カーソルが<img class="alignnone size-full wp-image-8214" src="/img/yajirushi.png" alt="yajirushi" width="20" height="20" />という形に変わります。  
-そのまま Drag すれば、**縦横比を保ったまま** 図の大きさを変えることができます。
+その状態で Drag すれば、**縦横比を保ったまま** 図の大きさを変えることができます。
 
 <img class="alignnone size-medium wp-image-8213" src="/img/snap.png" alt="snap" width="300" /></a>
 
