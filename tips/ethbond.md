@@ -23,6 +23,7 @@ VESTAから **[上部メニュー]-[Edit]-[Bonds...] を選択**します。
 <img src="/img/bondmenu.png" width=350>
 
 - 線種の異なる複数の線を引きたい場合は、[左パネル]-[Objects]タグ-[Bonds] から設定します。
+>ここで5行目の [V] のチェックを外す方法でも、点線を消すことができます。
 
 <img src="/img/ibond.png" width=500>
 
