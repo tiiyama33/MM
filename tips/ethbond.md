@@ -18,10 +18,10 @@ VESTAのメニューから [Edit]-[Bonds] を選択します。
 エタノールの**点線を消すには、5行目を選択して画面右側の[Delete]を押し、
 画面下部の[OK]を押し**て、5行目を削除します。
 
-- 結合を表す線の太さや色の設定は [上部メニュー]-[Objects]-[Properties]-[Bonds...で行うことができます。
+- 結合を表す線の太さや色の設定は [上部メニュー]-[Objects]-[Properties]-[Bonds..] で行うことができます。
 
 <img src="/img/bondmenu.png" width=350>
 
-- 線種の異なる複数の線を引きたい場合は、[左パネル]-[Objects]タグから設定します。
+- 線種の異なる複数の線を引きたい場合は、[左パネル]-[Objects] タグから設定します。
 
 <img src="/img/ibond.png" width=500>
