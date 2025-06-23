@@ -55,7 +55,7 @@
 
 <img class="wp-image-195894" src="/img/miss.png" alt="間違いの例" width="400" height="317" />
 
-上の例では表示が van der Waals 半径になっていません。左メニューで [Space-filling] が選ばれていないのが原因です。
+上の例では表示が van der Waals 半径になっていません。左パネルで [Space-filling] が選ばれていないのが原因です。
 
 その他の表示法に興味がある場合は[別ページ](/tips/settings.md)を参照してください。
 
