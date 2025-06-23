@@ -5,7 +5,7 @@
 ethanol.xyzを開いた際に、O-H間に点線が書かれる場合があります。
 
 ファイルを開いた際に、結合の設定が自動で設定されるのですが、それを調整します。  
-**VESTAから [上部メニュー]-[Edit]-[Bonds...] を選択**します。
+VESTAから **[上部メニュー]-[Edit]-[Bonds...] を選択**します。
 
 <img src="/img/ethbondmenu.png" width=600>
 
