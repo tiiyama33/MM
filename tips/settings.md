@@ -2,7 +2,7 @@
 
 ## 表示方法を変えたときの例(アデニン)
 
-[アデニン](samples.md)を例として、表示法を変えたときの分子像を示します。
+[アデニン](/docs/samples.md)を例として、表示法を変えたときの分子像を示します。
 
 |<img src="/img/Adenine-bs.png" alt="Ball-and-Stick 市販の分子模型のような表示です。" width="300" height="227" />|
 |:---:|
