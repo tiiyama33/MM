@@ -20,7 +20,7 @@ VESTAのメニューから [Edit]-[Bonds] を選択します。
 
 - 結合を表す線の太さや色の設定は [上部メニュー]-[Objects]-[Properties]-[Bonds...で行うことができます。
 
-<img src="/img/bondmenu.png" width=400>
+<img src="/img/bondmenu.png" width=350>
 
 - 線種の異なる複数の線を引きたい場合は、[左パネル]-[Objects]タグから設定します。
 
