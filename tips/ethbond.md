@@ -5,7 +5,7 @@
 ethanol.xyzを開いた際に、O-H間に点線が書かれる場合があります。
 
 ファイルを開いた際に、結合の設定が自動で設定されるのですが、それを調整します。  
-**VESTAのメニューから [Edit]-[Bonds] を選択**します。
+**VESTAから [上部メニュー]-[Edit]-[Bonds...] を選択**します。
 
 <img src="/img/ethbondmenu.png" width=600>
 
@@ -17,11 +17,11 @@ ethanol.xyzを開いた際に、O-H間に点線が書かれる場合がありま
 エタノールの**点線を消すには、5行目を選択して画面右側の[Delete]を押し、
 画面下部の[OK]を押し**て、5行目を削除します。
 
-- 結合を表す線の太さや色の設定は [上部メニュー]-[Objects]-[Properties]-[Bonds..] で行うことができます。
+- 結合を表す線の太さや色の設定は [上部メニュー]-[Objects]-[Properties]-[Bonds...] で行うことができます。
 
 <img src="/img/bondmenu.png" width=350>
 
-- 線種の異なる複数の線を引きたい場合は、[左パネル]-[Objects] タグから設定します。
+- 線種の異なる複数の線を引きたい場合は、[左パネル]-[Objects]タグ-[Bonds] から設定します。
 
 <img src="/img/ibond.png" width=500>
 
