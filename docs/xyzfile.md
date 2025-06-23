@@ -17,7 +17,7 @@ VESTA が表示する分子の構造(原子の位置)は、座標ファイルの
 
 ダウンロードした ethanol.xyz を、起動した [メモ帳] に Drag & Drop、または [ファイル]-[開く] で 開いてください。  
 
- <img class="wp-image-8165 size-medium" src="/img/notepad1.png" width="450" />
+ <img class="wp-image-8165 size-medium" src="/img/notepad11.png" width="450" />
 
 ethanol.xyz は "XMol XYZ" 形式に従って書かれています。  
 (ファイルの拡張子は .xyz )
