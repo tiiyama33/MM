@@ -127,8 +127,6 @@ $マークをうまく使えば、座標部分は 単純なコピー & ペース
 上記の結晶は例えば<img class="alignnone size-full wp-image-3319" title="cell2" src="/img/cell2.png" alt="" width="101" height="101" />の繰り返しで表すことができます。  
 <img class="alignnone size-full wp-image-3320" title="cell3" src="/img/cell3.png" alt="" width="101" height="101" />の繰り返しをすると、原子が重複してしまいます。
 
-<a title="問題 8 のヒント" href="repeatunit.md">もう少し詳しい説明</a>(←クリック！)
-
 <a name="q8"></a>
 >[!important]
 >### 問題 8 単位格子を繰り返す
