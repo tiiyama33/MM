@@ -12,7 +12,7 @@ VESTAは論文等の図 として使用する場合は論文中にソフトウ�
 1. 上記、門馬氏のホームページ、 JP-Minerals を開きます。 <br><br> <a class="wpel-icon-right" href="http://jp-minerals.org/jp/" target="blank" rel="external noopener noreferrer" data-wpel-link="external"><img class="alignnone size-full wp-image-194412" src="/img/minerals.png" alt="JP-minerals" width="400" height="445" /></a>
 1. 左メニューから<br />[VESTA]-[Download]を選択
 1. License agreementを確認して、  
-[Latest versions]から自分のPCに合ったものをダウンロードします。  
+[Latest development versions]から自分のPCに合ったものをダウンロードします。  
 Windowsであれば **VESTA-win64.zip** (64-bit Windwos用) でよいでしょう。
 
 
