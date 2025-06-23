@@ -50,7 +50,8 @@ ethanol.xyz は "XMol XYZ" 形式に従って書かれています。
 - 2行目は分子名(methane または CH4) を入力
 - 3行目以降は、元素名、xyz座標をスペースで区切り入力
   
-座標データが入力できたら、ファイルの種類を **[すべてのファイル]** に変更して、methane.xyz という名前でセーブしてください。
+座標データが入力できたら、[ファイル]-[名前をつけて保存]を選び、  
+ファイルの種類を **[すべてのファイル]** に変更して、methane.xyz という名前でセーブしてください。
 
 <img class="alignnone size-medium wp-image-8166" src="/img/save1-300x200.png" alt="save1" width="450" /></a>
 
