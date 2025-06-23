@@ -4,7 +4,7 @@ VESTAは非商用の用途には無料で配布されています。
 このページでは、個人のPCにVESTAをインストールする手順について説明しています。  
 VESTAは論文等の図 として使用する場合は論文中にソフトウェア名を示す(文献を引用する)ことになっています。将来、研究で使用する場合には注意してください。
 
-- 門馬綱一氏のVESTAのページ [http://jp-minerals.org/jp/](http://jp-minerals.org/jp/) (Shiftキーを押しながらクリックすると別タグで開く)
+- 門馬綱一氏のVESTAのページ [http://jp-minerals.org/jp/](http://jp-minerals.org/jp/) (Shiftキーを押しながらクリックして別タグで開くとよい)
 
 ## ダウンロード
 
