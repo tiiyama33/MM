@@ -88,7 +88,7 @@ VESTAの他の設定項目の説明です。
 
 上図 F の [Drag] を [Animation] に切り替えると、分子模型が自動で回転します。(止めるときは [Drag] に戻す。)
 
-[Ball-and-Stick] で、原子と原子の間に引かれる「結合」は[[Edit]-[Bonds...]から設定します](/tips/bond.md)。
+[Ball-and-Stick] で、原子と原子の間に引かれる「結合」は [[Edit]-[Bonds...]から設定します](/tips/bond.md)。
 
 [View] から、他にも表示に関するいろいろな設定ができます。
 - [Antialiasing] アンチエイリアシング 分子の縁の部分のぎざぎざをなめらかにする。通常ON。
