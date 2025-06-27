@@ -8,7 +8,7 @@
 
 - フラーレン C<sub>60</sub> ( <a href="https://drive.google.com/file/d/1iZFIsWPXU0127XlVJwRk2M8UK-KkCzHW">C60-Ih.xyz</a> <sup>1</sup>)  
 フラーレンと呼ばれる、炭素原子だけで構成されたサッカーボール状の分子です。炭素の第 3 の同素体として注目を集め、発見者の Kroto らは 1996 年のノーベル化学賞を受賞しました。  
-フラーレンはC<sub>60</sub>の他に、C<sub>70</sub> ( <a href="https://drive.google.com/file/d/1D1Yk930Bc6vQQybJKufGMNdH32dPXxZI">C70-D5h.xyz</a> <sup>1</sup>), C<sub>84</sub> ( <a href="https://drive.google.com/file/d/1y3FhQqhRhG9rk3hQmCIrTyyQ6APcXfmx">C84-D2.xyz</a> <sup>1</sup>)など多くの存在が知られています。これらの構造は「隣り合わない五員環」を12個含んでいます。
+フラーレンはC<sub>60</sub>の他に、C<sub>70</sub> ( <a href="https://drive.google.com/file/d/1D1Yk930Bc6vQQybJKufGMNdH32dPXxZI">C70-D5h.xyz</a> <sup>1</sup>), C<sub>84</sub> ( <a href="https://drive.google.com/file/d/1y3FhQqhRhG9rk3hQmCIrTyyQ6APcXfmx">C84-D2.xyz</a> <sup>1</sup>)など多くの存在が知られています。これらの構造は「隣り合わない五員環」を12個含んでいます。　　
 https://nanotube.msu.edu/fullerene/fullerene-isomers.html (英語)
 - カーボンナノチューブ ( <a href="https://drive.google.com/file/d/1iYnXVpgQiQVyxVzWMpe9wd5GMEYCKMc3/view">nt-10-10-20.xyz</a> )  
 フラーレンと同じく、炭素原子だけで構成されたチューブ状の分子です。さまざまな応用が期待されており、信州大学工学部の遠藤教授が発見者の一人として知られています。様々な直径や長さを持つものが存在します。  
