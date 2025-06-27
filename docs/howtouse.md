@@ -35,6 +35,8 @@
 > メニュー(上図A) [View] (視点)から **[Perspective]** (遠近法)を選択すると、遠くの分子を小さく描き、遠近感のある描写になります。
 > (xyzファイルを読み込むたびに行う必要がある。)
 
+> 回転しない場合は左メニューで [回転]モード <img class="alignnone size-full wp-image-6430" src="/img/rotate1.png" alt="rotate" width="70" height="64" /> が選ばれていることを確認してください。
+
 > [O-H間に引かれている点線を消す](/tips/ethbond.md)
 
 ## 分子の操作
