@@ -8,7 +8,9 @@ VESTA が表示する分子の構造(原子の位置)は、座標ファイルの
 
 [メモ帳] は [スタートメニュー]-[すべて] のリストの下の方(ま行)にあると思います。(場所が違う可能性あり)  
 
- <img class="size-medium wp-image-195899" src="/img/memo11.png" alt="" width="288" height="300" />
+| <img class="size-medium wp-image-195899" src="/img/memo11.png" alt="" width="288" height="300" />|
+|:---:|
+|「メモ帳」の起動|
 
 > Mac OS Xの場合、標準で搭載されている[テキストエディタ]が使えます。  
 > 起動時は[リッチテキスト]モードになっているので、[テキストエディット]-[環境設定...]-[フォーマット]で [標準テキスト]モードに切り替えてください。  
@@ -17,7 +19,9 @@ VESTA が表示する分子の構造(原子の位置)は、座標ファイルの
 
 ダウンロードした ethanol.xyz を、起動した [メモ帳] に Drag & Drop、または [ファイル]-[開く] で 開いてください。  
 
- <img class="wp-image-8165 size-medium" src="/img/notepad11.png" width="600" />
+ |<img class="wp-image-8165 size-medium" src="/img/notepad11.png" width="600" />|
+ |:---:|
+ |「メモ帳」でethanol.xyzを開いたところ|
 
 ethanol.xyz は "XMol XYZ" 形式に従って書かれています。  
 (ファイルの拡張子は .xyz )
