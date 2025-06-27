@@ -20,8 +20,8 @@
 
 [ethanol.xyz](/files/ethanol.xyz)
   
-上記リンクを左クリックすると  
-ethanol.xyzの内容が表示されるので、上部の ダウンロードボタン(download raw file) <img src="/img/download.png" width="30"> を押してください。  
+上記リンクを左クリックするとethanol.xyzの内容が表示されるので、  
+上部の ダウンロードボタン(download raw file) <img src="/img/download.png" width="30"> を押してください。  
 > ファイルは[ダウンロード]フォルダに保存されます(Chromeの場合)
 
 保存したethanol.xyz ファイルを、VESTA(上の図中G)に Drag & Drop してみましょう。
