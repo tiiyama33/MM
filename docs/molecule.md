@@ -30,6 +30,10 @@
  	1. [Atoms]タグを選択。
  	1. [Atom style]-[Show as balls]でRadii Type(直径のタイプ)を切り替える
 
+|<img class="size-medium wp-image-8138" src="/img/radiimenu.png" alt="半径の変更" width="300" />|
+|:---:|
+|表示する半径の変更|
+
   - 半径の種類
     - [Atomic] 原子半径  
 同種原子が作る化学結合距離の半分の値が半径として設定されています。
