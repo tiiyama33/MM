@@ -8,6 +8,10 @@
 |:---:|
 |左パネルの表示/非表示切り替えボタン|
 
+|<img title="bond" src="/img/github-outline-r.png" alt="" width="500" />|
+|:---:|
+|左パネルを非表示にしたところ|
+
 ## ページ内メニュー
 右上にある <img src="/img/outline-button.png"> ボタンを押すと、
 ページ内メニューが表示されます。
