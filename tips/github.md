@@ -2,11 +2,11 @@
 
 ## 左のファイルメニューを隠す
 左上の Files の左にある <img src="/img/files-button.png"> ボタンを押すと、  
-ファイルパネルを非表示にできます。
+左側のファイルパネルを非表示にできます。
 
 |<img title="bond" src="/img/github-files.png" alt="" width="500" />|
 |:---:|
-|左メニューの表示/非表示切り替えボタン|
+|左パネルの表示/非表示切り替えボタン|
 
 ## ページ内メニュー
 右上にある <img src="/img/outline-button.png"> ボタンを押すと、
