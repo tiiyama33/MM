@@ -10,7 +10,7 @@
 
 |<img title="bond" src="/img/github-outline-r.png" alt="" width="500" />|
 |:---:|
-|左パネルを非表示。説明部分が広くなる。|
+|左パネルを非表示。説明部分が広くなる|
 
 ## ページ内メニュー
 右上にある <img src="/img/outline-button.png"> ボタンを押すと、
@@ -22,4 +22,4 @@
 
 |<img title="bond" src="/img/github-menu.png" alt="" width="500" />|
 |:---:|
-|ページ内目次を表示させたところ|
+|ページ内目次を表示。目次の項目をクリックすればその位置にジャンプする|
