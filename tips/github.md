@@ -10,7 +10,7 @@
 
 |<img title="bond" src="/img/github-outline-r.png" alt="" width="500" />|
 |:---:|
-|左パネルを非表示にしたところ|
+|左パネルを非表示。説明部分が広くなる。|
 
 ## ページ内メニュー
 右上にある <img src="/img/outline-button.png"> ボタンを押すと、
