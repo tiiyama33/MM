@@ -16,6 +16,7 @@ VESTA が正しいフォルダ(C:\Program Files)にない状態で動かして�
 |<img src="/img/extention.png" width=600>|
 |:---:|
 |ファイル名拡張子を表示する|
+
 <br><br>
 
 
@@ -29,6 +30,7 @@ VESTAを起動していて、下にVESTAのアプリが表示されていると�
 |<img src="/img/taskbar.png" width=600>|
 |:---:|
 |タスクバーにアプリをピン留め|
+
 <br><br>
 
 
@@ -37,5 +39,6 @@ C:\Program Files にある VESTA.exeを右クリックして、[スタートに�
 
 <img class="wp-image-194423 size-full" src="/img/final.png" alt="vesta.exe" width="450" />
 <img class="wp-image-194424 size-full" src="/img/final-2.png" alt="スタートメニュー" width="450" />
+
 <br><br>
 
