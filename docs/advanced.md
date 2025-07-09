@@ -148,4 +148,7 @@
 
 説明は次ページを参照してください。
 
+<br><br>
+
+
 [前＜](solid.md) [目次](/README.md) [＞次](zeolite.md)
