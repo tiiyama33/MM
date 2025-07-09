@@ -20,6 +20,7 @@
 [Search A2 bonded to A1]を選んで、[A1]と[A2]に原子種を設定し、  
 [Min. length]と[Max. length]に原子間距離の最小値と最大値を入力し、  
 [Apply]を押すと、指定した範囲内の距離に結合が引かれる。
-- 結合を表す線の太さや色の設定は[Objects]-[Properties]-[General...]-[Bonds]で行える。個別に行う場合は[こちらのページ](ethbond.md)を参照。
+- 結合を表す線の太さや色の設定は[Objects]-[Properties]-[General...]-[Bonds]で行える。  
+個別に設定する場合は[こちらのページ](ethbond.md)を参照。
 
 ブラウザの[戻る]ボタンで前のページに戻ってください。
