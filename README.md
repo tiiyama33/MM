@@ -32,3 +32,4 @@
   - [VESTAのその他の項目](tips/settings.md)
   - [ethanol.xyzの点線を消す](tips/ethbond.md)
   - [このページ(github)に関するTips](tips/github.md)
+  - [Windowsに関するTips](tips/windows.md)
