@@ -1,7 +1,11 @@
 # Windowsに関するTips
+
+右上 ↗ にある <img src="/img/outline-button.png"> ボタンを押すと、このページの目次が表示されます。
+
 ## VESTA でセーブできない
 VESTA が正しいフォルダ(C:\Program Files)にない状態で動かしていると、ファイルのセーブが出来ない場合があります。  
 [VESTAのインストール](/docs/install.md) を参照して、正しいフォルダにインストールしてください。
+
 
 ## ファイルの拡張子を表示したい
 ファイル名の最後についている .png とか .docs とかを「拡張子」といいます。  
@@ -11,3 +15,23 @@ VESTA が正しいフォルダ(C:\Program Files)にない状態で動かして�
 |<img src="/img/extention.png" width=600>|
 |:---:|
 |ファイル名拡張子を表示する|
+
+
+## タスクバーにピン留め
+Windwos画面下部のアプリが表示されるところを「タスクバー」といいます。  
+VESTAを起動していて、下にVESTAのアプリが表示されているとき、  
+アプリのアイコンを右クリックして [タスクバーにピン留めする] を選ぶと  
+アプリを終了してもアイコンがタスクバーに残り、  
+タスクバーからアプリが起動できるようになります。
+
+|<img src="/img/taskbar.png" width=600>|
+|:---:|
+|タスクバーにアプリをピン留め|
+
+
+## スタートメニューにピン留め
+C:\Program Files にある VESTA.exeを右クリックして、[スタートにピン留めする]を選べば、スタートメニューから vesta が起動できるようになります。
+
+<img class="wp-image-194423 size-full" src="/img/final.png" alt="vesta.exe" width="450" />
+<img class="wp-image-194424 size-full" src="/img/final-2.png" alt="スタートメニュー" width="450" />
+
