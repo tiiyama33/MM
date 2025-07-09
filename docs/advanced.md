@@ -1,6 +1,6 @@
 # 発展問題 ~氷の構造など
 
-[問題5-2(炭化水素類の構造)](https://github.com/tiiyama33/MM/blob/main/docs/xyzfile.md#%E5%95%8F%E9%A1%8C-5-2%E7%82%AD%E5%8C%96%E6%B0%B4%E7%B4%A0%E9%A1%9E-%E4%BD%99%E5%89%B0%E5%95%8F%E9%A1%8C)も発展問題扱いです。
+[問題5-2(炭化水素類の構造)](xyzfile.md#%E5%95%8F%E9%A1%8C-5-2%E7%82%AD%E5%8C%96%E6%B0%B4%E7%B4%A0%E9%A1%9E-%E7%99%BA%E5%B1%95%E5%95%8F%E9%A1%8C)も発展問題扱いです。
 
 以下の問題は順不同で(好きな順序で)回答してください。  
 右上 ↗ にある <img src="/img/outline-button.png"> ボタンを押すと、このページの目次が表示されます。
