@@ -25,7 +25,7 @@
   - [クラスターを作る](docs/cluster.md) (Q13)
   - [空間群を利用して、さらに複雑な構造を描く](docs/zeolite.md) (Q14)
 - [レポートについて](docs/report.md)
-- Tips
+- Tips (テクニック集)
   - [原子間にひく線の設定](tips/bond.md)
   - [100℃で存在する氷](tips/hpice.md)
   - [よく使うエクセルの関数](tips/excelfunc.md)
