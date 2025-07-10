@@ -48,7 +48,11 @@ O<sub>1 </sub>の x 座標は、上の式の **a**, **b**, **c** の x 成分
 - O<sub>1z</sub> = (1/3)*a<sub>z</sub> + (2/3)*b<sub>z</sub> + (1/16)*c<sub>z</sub>
 
 うまくセルを並べて、$マークを駆使すれば、計算は一気に行えます。  
-<img class="alignnone size-full wp-image-3386" title="ice-excel" src="/img/ice-excel1.png" alt="" width="794" height="456" />  
+
+|<img class="alignnone size-full wp-image-3386" title="ice-excel" src="/img/ice-excel1.png" alt="" width="794" height="456" />  |
+|:---:|
+|作成中のワークシート|
+
 <a href="/img/ice-excel2.png">赤い部分の答え</a>(やり方は他にもあります。)
 
 >[!note]
