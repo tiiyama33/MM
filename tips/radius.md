@@ -1,5 +1,5 @@
 # 原子の表示半径を切り替える
-VESTA画面左上の[Style]で[Space-filling]が選ばれている状態で
+VESTA画面、左上の[Style]で[Space-filling]が選ばれている状態で
 
 |<img class="size-medium wp-image-8138" src="/img/winsnap1.png" alt="原子半径表示" width="800" />|
 |:---:|
