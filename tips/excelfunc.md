@@ -39,7 +39,7 @@
 <td>sqrt</td>
 <td>ルートの計算<br> (例: $$\sqrt{2}$$)<br>
 (累乗を使っても計算できる)</td>
-<td>=sqrt(2)
+<td>=sqrt(2)<br>
 =2^(1/2)</td>
 </tr>
 <tr>
