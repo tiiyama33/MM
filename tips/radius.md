@@ -3,7 +3,7 @@ VESTA画面、左上の[Style]で[Space-filling]が選ばれている状態で
 
 |<img class="size-medium wp-image-8138" src="/img/winsnap1.png" alt="原子半径表示" width="800" />|
 |:---:|
-|表示する半径の変更|
+|原子半径で表示した NaCl|
 
 上メニュー[Objects]-[Properties]-[Atoms]から
 
